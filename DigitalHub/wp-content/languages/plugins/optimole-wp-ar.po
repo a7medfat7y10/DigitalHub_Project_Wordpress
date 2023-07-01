@@ -1,0 +1,795 @@
+# Translation of Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk) in Arabic
+# This file is distributed under the same license as the Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-20 11:38:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - Image optimization &amp; Lazy Load by Optimole - Development (trunk)\n"
+
+#: inc/admin.php:784
+msgid "Off"
+msgstr "إيقاف"
+
+#: inc/admin.php:783
+msgid "On"
+msgstr "تشغيل"
+
+#: inc/admin.php:782
+msgid "Scale Images"
+msgstr "تغيير حجم الصور"
+
+#: inc/admin.php:792
+msgid "Once Optimole will serve your CSS files, it will also minify the files and serve them via CDN."
+msgstr "بمجرد أن تقوم Optimole بخدمة ملفات التنسيق CSS الخاصة بك ، ستقوم أيضًا بتقليل الملفات وعرضها عبر CDN."
+
+#: inc/admin.php:791
+msgid "Minify CSS files"
+msgstr "تصغير ملفات CSS"
+
+#: inc/admin.php:790
+msgid "Useful when you have images into CSS/JS files. Optimole wil optimize the images from them and serve the CSS/JS through the CDN."
+msgstr "مفيد عندما يكون لديك صور في ملفات الجافا سكريبت وملفات CSS . ستقوم أوبتيمول بتحسين الصور منها وخدمة الجافا سكريبت وملفات CSS من خلال CDN."
+
+#: inc/admin.php:789
+msgid "Serve CSS & JS through Optimole"
+msgstr "زود ملفات الجافا سكريبت وملفات CSS من خلال أوبتيمول "
+
+#: inc/admin.php:793
+msgid "Minify JS files"
+msgstr "تصغير ملفات الجافا سكريبت"
+
+#: inc/admin.php:794
+msgid "Once Optimole will serve your JS files, it will also minify the files and serve them via CDN."
+msgstr "بمجرد أن تقوم Optimole بتزويد ملفات الجافا سكريبت الخاصة بك ، ستقوم أيضًا بتقليل الملفات وعرضها عبر CDN."
+
+#: inc/admin.php:694
+msgid "Your account has been disabled due to exceeding quota. All images are being redirected to the original unoptimized URL. Please %1$supgrade%2$s to re-activate the account."
+msgstr "تم تعطيل حسابك بسبب تجاوز الحصة. تتم إعادة توجيه جميع الصور إلى عنوان URL الأصلي غير المحسن. الرجاء %1$sقم بالترقية%2$s  لإعادة تنشيط الحساب."
+
+#: inc/admin.php:723
+msgid "Clear all cached resources(images,js,css) by Optimole from this site. Useful if you updated them and Optimole shows the old version."
+msgstr "امسح كل الموارد المخزنة مؤقتًا (الصور ، جافا سكريبت، css) بواسطة أوبتيمول من هذا الموقع. مفيد إذا قمت بتحديثها وأظهر أوبتيمول  الإصدار القديم منها ."
+
+#: inc/admin.php:724 inc/admin.php:725
+msgid "Clear cached resources"
+msgstr "مسح الموارد المخزنة مؤقتًا"
+
+#: inc/admin.php:765
+msgid "When this option is off, we disable the automatic scaling of images on lazyload."
+msgstr "عند إيقاف هذا الخيار ، نقوم بتعطيل التحجيم التلقائي للصور على التحميل البطيء."
+
+#: inc/rest.php:298
+msgid "Can not get new token from Optimole service"
+msgstr "لا يمكن الحصول على رمز مميز جديد من خدمة Optimole"
+
+#: inc/api.php:57
+msgid "You can clear cache only once per 5 minutes."
+msgstr "يمكنك مسح ذاكرة التخزين المؤقت مرة واحدة فقط كل 5 دقائق."
+
+#: inc/admin.php:716
+msgid "Site audit"
+msgstr "تدقيق الموقع"
+
+#: inc/admin.php:714
+msgid "Extend visits limit"
+msgstr "تمديد حد الزيارات"
+
+#: inc/admin.php:713
+msgid "Priority & Live Chat support"
+msgstr "دعم الأولوية والمحادثة الحية"
+
+#: inc/admin.php:679
+msgid "Here’s %1$show%2$s to install Optimole on your WordPress site in 3 steps."
+msgstr "إليك هنا %1$sكيفية%2$s تنصيب Optimole على موقع ووردبريس الخاص بك في 3 خطوات."
+
+#: inc/cli/cli_setting.php:137
+msgid "No setting to update"
+msgstr "لا يوجد إعداد للتحديث"
+
+#: inc/conflicts/divi.php:26
+msgid "It seems your are using %1$sDivi%2$s right now. %3$s In order for Optimole to replace the images in your Divi pages, you will need to go to %4$sDivi -> Theme Options -> Builder -> Advanced -> Static CSS File Generations%5$s and click on Clear for the images to be processed. "
+msgstr "يبدو أنك تستخدم %1$sDivi%2$s  الآن.  %3$s لكي يستبدل Optimole الصور في صفحات Divi الخاصة بك ، ستحتاج إلى الانتقال إلى %4$sDivi ->  خيارات السمة -> المحرر -> خيارات متقدمة ->  ملفات CSS الثابتة%5$s وانقر فوق واضح للصور المراد معالجتها."
+
+#: inc/admin.php:746
+msgid "Image tag contains class"
+msgstr "تحتوي علامة الصورة على فئة"
+
+#: inc/admin.php:752
+msgid "Image class"
+msgstr "فئة الصورة"
+
+#: inc/admin.php:770
+msgid "Lower image quality might not always be perceived by users and would result in a boost of your loading speed by lowering the page size. Try experimenting with the setting, then click the View sample image link to see what option works best for you."
+msgstr "الصور ذوات الجودة المنخفضة قد لا يعي بها المستخدمين دائما وسينتج زيادةً في سرعة التحميل بتقليل حجم الصفحة. جرب وتلاعب بالإعدادات، ثم أنقر عرض عينة رابط الصورة لترى أي خيار هو الأفضل لك."
+
+#: inc/admin.php:773
+msgid "Image quality"
+msgstr "جودة الصورة"
+
+#: inc/admin.php:758
+msgid "Automatically convert GIF images to Video files(MP4 and WebM)"
+msgstr "تحويل صور GIF تلقائيًا إلى ملفات فيديو (MP4 و WebM)"
+
+#: inc/admin.php:733
+msgid "Enable Gif to Video conversion"
+msgstr "تمكين التحويل من Gif إلى فيديو"
+
+#: inc/admin.php:786
+msgid "You can add each CSS selector on a new line or separated by comma(,)."
+msgstr "يمكنك إضافة كل محدد CSS على سطر جديد أو مفصولة بفواصل (،)."
+
+#: inc/admin.php:787
+msgid "Lazyload background images for selectors:"
+msgstr "تفعيل التحميل البطيء للصور للمحدداِت :"
+
+#: inc/admin.php:731
+msgid "Lazyload images used as CSS backgrounds."
+msgstr "الصور بطيئة التحميل مُستخدمة كخلفية بواسطة css"
+
+#: inc/admin.php:732
+msgid "Enable lazyload for background images"
+msgstr "تمكين التحميل البطيء لصور الخلفية"
+
+#: inc/admin.php:743
+msgid "Deliver retina ready images to your visitors"
+msgstr "تقديم صور جاهزة الشبكية  لزوارك"
+
+#: inc/admin.php:744
+msgid "Enable Retina images"
+msgstr "تمكين صور شبكية العين"
+
+#: inc/admin.php:737
+msgid "Enabling this might affect the user experience in some cases, however it will reduce the number of total requests and page weight. Try it out and see how works best for you!"
+msgstr "تفعيل هذا قد يؤثر على تجربة المستخدم في بعض الحالات، ولكنه سيقلل من عدد طلبات تحميل الموقع و من حجم الصفحة. جربه ومن ثم قرر ما الأفضل لك"
+
+#: inc/admin.php:836
+msgid "We are currently optimizing your images. Meanwhile you can visit your %1$shomepage%2$s and check how our plugin performs. "
+msgstr "نعمل حاليًا على تحسين صورك. في هذه الأثناء ، يمكنك زيارة %1$sالصفحة الرئيسية%2$s الخاصة بك  والتحقق من أداء برنامجنا الإضافي."
+
+#: inc/admin.php:741
+msgid "Detects the most interesting section of the image and considers it as the center of the resulting image."
+msgstr "يكتشف القسم الأكثر إثارة للاهتمام في الصورة ويعتبره مركز الصورة الناتجة."
+
+#: inc/admin.php:739
+msgid "Optimole provides an option to automatically downgrade the image quality when it detects a slower network."
+msgstr "يوفر أوبتيمول خيارًا لخفض جودة الصورة تلقائيًا عند اكتشاف شبكة انترنت بطيئة."
+
+#: inc/admin.php:771
+msgid "Selected value"
+msgstr "القيمة المختارة"
+
+#: inc/admin.php:785
+msgid "View sample image"
+msgstr "عرض صورة نموذجية"
+
+#: inc/admin.php:720
+msgid "Add filter"
+msgstr "إضافة عامل تصفية"
+
+#: inc/admin.php:729
+msgid "All done, Optimole is currently optimizing your site."
+msgstr "تم الامر، يتم حاليا تحسين موقعك"
+
+#: inc/admin.php:728
+msgid "Inspecting the images from your site."
+msgstr "فحص الصور من موقعك."
+
+#: inc/admin.php:727
+msgid "Checking for possible conflicts."
+msgstr "التحقق من تعارضات محتملة ."
+
+#: inc/admin.php:726
+msgid "Connecting your site to the Optimole service."
+msgstr "يتم توصيل موقعك بالخدمة"
+
+#: inc/admin.php:747
+msgid "Image extension is"
+msgstr "ملحق الصورة هو"
+
+#: inc/admin.php:751
+msgid "Page url contains"
+msgstr "يحتوي رابط الصفحة على "
+
+#: inc/admin.php:748
+msgid "Image filename contains"
+msgstr "يحتوي اسم ملف الصورة على"
+
+#: inc/admin.php:749
+msgid "Don't lazyload images if"
+msgstr "لا تقم بتحميل الصور ببطء إذا"
+
+#: inc/admin.php:750
+msgid "Don't optimize images if"
+msgstr "لا تقم بتحسين الصور إذا"
+
+#: inc/admin.php:753
+msgid "Image extension"
+msgstr "ملحق الصورة"
+
+#: inc/admin.php:757
+msgid "Page URL"
+msgstr "رابط الصفحة"
+
+#: inc/admin.php:754
+msgid "Image filename"
+msgstr "اسم ملف الصورة"
+
+#: inc/admin.php:756
+msgid "is"
+msgstr "يكون"
+
+#: inc/admin.php:755
+msgid "contains"
+msgstr "يحتوي على"
+
+#: inc/admin.php:738
+msgid "Enable generic lazyload placeholder"
+msgstr "تمكين العنصر النائب العام للتحميل البطيء"
+
+#: inc/admin.php:742
+msgid "Enable Smart Cropping"
+msgstr "تفعيل الاقتصاص الذكي"
+
+#: inc/admin.php:740
+msgid "Enable network based optimizations"
+msgstr "تمكين التحسينات القائمة على الشبكة"
+
+#: inc/admin.php:781
+msgid "Scale images & Lazy load"
+msgstr "تحجيم الصور والتحميل البطئ"
+
+#: inc/admin.php:715
+msgid "Custom domain"
+msgstr "مجال موقع  مخصص"
+
+#: inc/admin.php:703
+msgid "Watermark"
+msgstr "علامة مائية"
+
+#: inc/admin.php:702
+msgid "Lazyload"
+msgstr "التحميل البطئ"
+
+#: inc/admin.php:701
+msgid "General"
+msgstr "عام"
+
+#: inc/admin.php:700
+msgid "Advanced"
+msgstr "متقدم"
+
+#: inc/admin.php:699
+msgid "Compression"
+msgstr "ضغط"
+
+#: inc/admin.php:698
+msgid "Resize"
+msgstr "إعادة تحجيم"
+
+#: inc/admin.php:697
+msgid "Exclusions"
+msgstr "الاستثناءات"
+
+#: inc/admin.php:687
+msgid "%1$sImage optimisation is currently running.%2$s <br/> Your visitors will now view the best image for their device automatically, all served from the Optimole Cloud Service on the fly. You might see for the very first image request being redirected to the original URL while we do the optimization in the background.<br/> You can relax, we'll take it from here."
+msgstr "جارٍ حاليًا تحسين %1$sالصور. %2$s <br/>  سيشاهد زوارك الآن أفضل صورة لأجهزتهم تلقائيًا ، ويتم تقديمها جميعًا من خدمة  Optimole Cloud على الفور. قد ترى أول طلب صورة يتم إعادة توجيهه إلى عنوان URL الأصلي بينما نقوم بالتحسين في الخلفية.<br/>  يمكنك الاسترخاء ، وسوف نأخذه من هنا."
+
+#: inc/admin.php:709
+msgid "No conflicts found. We are all peachy now. 🍑"
+msgstr "لم يتم العثور على تناقضات . كلنا سعداء الآن. 🍑"
+
+#: inc/admin.php:708
+msgid "I've done this."
+msgstr "لقد فعلت ذلك."
+
+#: inc/admin.php:707
+msgid "Details"
+msgstr "تفاصيل"
+
+#: inc/admin.php:706
+msgid "We might have some possible conflicts with the plugins that you use. In order to benefit from Optimole's full potential you will need to address this issues."
+msgstr "قد يكون لدينا بعض التعارضات المحتملة مع المكونات الإضافية التي تستخدمها. للاستفادة من إمكانات Optimole الكاملة ، ستحتاج إلى معالجة هذه المشكلات."
+
+#: inc/admin.php:704
+msgid "Possible issues"
+msgstr "المشاكل المحتملة"
+
+#: inc/admin.php:663
+msgid "Images domain"
+msgstr "مجال الصور"
+
+#: inc/conflicts/beaver.php:26
+msgid "It seems your are using %1$sBeaver Builder%2$s right now. %3$s In order for Optimole to replace the images in your Beaver Builder pages, you will need to go to %4$sSettings -> Beaver Builder -> Tools%5$s and click Clear Cache for the images to be processed. "
+msgstr "يبدو أنك تستخدم  %1$sBeaver Builder%2$s الآن. %3$s  لكي يستبدل Optimole الصور في صفحات Beaver Builder ، ستحتاج إلى الانتقال إلى  %4$sالإعدادات -> Beaver Builder ->أدوات%5$s وانقر فوق مسح ذاكرة التخزين المؤقت للصور المراد معالجتها."
+
+#: inc/conflicts/jetpack_photon.php:26
+msgid "It seems your are using %1$sJetpack%2$s with site accelerator option enabled for images. %3$s To avoid any possible conflicts with Optimole replacement mechanism, you can go to %4$sJetpack -> Perfomance%5$s and turn off the site accelerator option for %6$simages%7$s "
+msgstr "يبدو أنك تستخدم %1$sJetpack%2$s  مع تمكين خيار تسريع الموقع للصور.%3$s  لتجنب أي تضارب محتمل مع آلية استبدال Optimole ، يمكنك الانتقال إلى %4$sJetpack -> أداء%5$s   وإيقاف تشغيل خيار تسريع الموقع لـ %6$sالصور%7$s "
+
+#: inc/conflicts/wprocket.php:25
+msgid "It seems your are using %1$sWP Rocket%2$s with Lazy loading for images option active. %3$s Optimole already provides a lazy loading mechanism by it's own which might conflict with this. If you would like to further use Optimole lazy loading feature, you can turn that off from %4$sSettings -> WP Rocket -> Media%5$s page. "
+msgstr "يبدو أنك تستخدم %1$sWP Rocket%2$s مع خاصية التحميل البطيء للصور مفعلة. %3$s Optimole يوفر آلية التحميل البطيء بنفسه وبالتالي قد يتعارض مع هذا. إن أردت استخدام خاصية Optimole للتحميل البطيء أكثر، فباستطاعتك تعطيل هذا من %4$sالإعدادات -> WP Rocket -> الوسائط%5$s page."
+
+#: inc/conflicts/elementor.php:26
+msgid "It seems your are using %1$sElementor%2$s right now. %3$s In order for Optimole to replace the images in your Elementor pages, you will need to go to %4$sElementor -> Tools -> General%5$s and click Regenerate files for the images to be processed. "
+msgstr "يبدو أنك تستخدم %1$sElementor%2$s حاليا. %3$s لتمكين Optimole من استبدال الصور في صفحات إليمينتور الخاصة بك، ينبغي عليك أن تذهب للصفحة %4$sElementor -> أدوات -> عام%5$s ثم الضغط على إعادة توليد الملفات لإتاحة المعالجة للصور"
+
+#: inc/conflicts/jetpack_lazyload.php:25
+msgid "It seems your are using %1$sJetpack%2$s with Lazy loading option ON. %3$s Optimole already provides a lazy loading mechanism by it's own which might conflict with this. If you would like to further use Optimole lazy loading feature, you can turn that off from %4$sJetpack -> Perfomance%5$s page. "
+msgstr "يبدو أنك تستخدم %1$sJetpack%2$s  مع تشغيل خيار التحميل البطيء. يوفر %3$s Optimole  بالفعل آلية تحميل بطيئة من تلقاء نفسه والتي قد تتعارض مع هذا. إذا كنت ترغب في استخدام ميزة التحميل البطيء  بشكل أكبر ، فيمكنك إيقاف ذلك من صفحة %4$sJetpack -> أداء%5$s."
+
+#: inc/cli/cli_setting.php:52 inc/rest.php:296 inc/rest.php:326
+msgid ". ERROR details: %s"
+msgstr "تفاصيل الخطأ: %s"
+
+#: inc/admin.php:643
+msgid "Updating stats"
+msgstr "تحديث الإحصائيات"
+
+#: inc/admin.php:642
+msgid "Refresh stats"
+msgstr "تحديث الإحصائيات"
+
+#: inc/admin.php:717
+msgid "View plans"
+msgstr "اظهر خطط الاسعار"
+
+#: inc/admin.php:712
+msgid "Upgrade to Pro"
+msgstr "الترقية للنسخة للاحترافية"
+
+#: inc/admin.php:360
+msgid "I've done this"
+msgstr "لقد فعلت ذلك"
+
+#: inc/admin.php:357
+msgid "Check upgrade plans"
+msgstr "تحقق من خطط الترقية"
+
+#: inc/admin.php:354
+msgid "It seems your are close to the %1$s5.0000%2$s visits limit with %3$sOptiMole%4$s for this month. You might want to check the upgrade plans for a larger quota. %5$s %6$s What happens if i exceed the quota ?%7$s We will need to deliver back your original %8$sun-optimized%9$s images which might decrease your site speed perfomance."
+msgstr "يبدو أنك قريب من %1$s5.0000%2$sحد زيارات مع%3$sOptiMole%4$s لهذا الشهر. قد ترغب في التحقق من خطط الترقية للحصول على حصة أكبر. %5$s %6$s   ماذا يحدث إذا تجاوزت الحصة؟%7$s سنحتاج إلى إعادة صورك الأصلية %8$sun-optimized%9$s والتي قد تقلل من سرعة موقعك."
+
+#: optimole-wp.php:58
+msgid "%1$s You're using a PHP version lower than 5.4! %2$sOptimole%3$s requires at least %4$sPHP 5.4%5$s to function properly. Plugin has been deactivated. %6$sLearn more here%5$s. %7$s"
+msgstr "%1$s أنت تستخدم إصدار PHP أقل من 5.4! يتطلب %2$sOptimole%3$s  على الأقل%4$sPHP 5.4%5$s  ليعمل بشكل صحيح. تم تعطيل البرنامج المساعد.%6$sاعرف المزيد هنا%5$s. %7$s"
+
+#: inc/rest.php:539
+msgid "Watermark image uploaded succesfully ! "
+msgstr "تم تحميل صورة العلامة المائية بنجاح !"
+
+#: inc/rest.php:536
+msgid "Error uploading image. Please try again."
+msgstr "حدث خطأ أثناء رفع الصورة. حاول مرة اخرى."
+
+#: inc/rest.php:363
+msgid "Error creating account."
+msgstr "خطأ في إنشاء الحساب."
+
+#: inc/admin.php:831
+msgid "A value between 0 and 300 for the scale of the watermark (100 is the original size and 300 is 3x the size) relative to the resulting image size. If set to 0 it will default to the original size."
+msgstr "قيمة بين 0 و 300 لمقياس العلامة المائية (100 هو الحجم الأصلي و 300 هو 3x الحجم) بالنسبة إلى حجم الصورة الناتج. إذا تم تعيينه إلى 0 ، فسيتم تعيين الحجم الافتراضي على الحجم الأصلي."
+
+#: inc/admin.php:830
+msgid "Watermark scale"
+msgstr "مقياس العلامة المائية"
+
+#: inc/admin.php:829
+msgid "Scale"
+msgstr "مقياس"
+
+#: inc/admin.php:828
+msgid "Offset the watermark from set position on X and Y axis. Values can be positive or negative."
+msgstr "قم بإزاحة العلامة المائية من موضع الضبط على المحور X و Y. يمكن أن تكون القيم إيجابية أو سلبية."
+
+#: inc/admin.php:827
+msgid "Watermark offset"
+msgstr "موازنة العلامة المائية"
+
+#: inc/admin.php:826
+msgid "Offset Y"
+msgstr "ازاحة Y"
+
+#: inc/admin.php:825
+msgid "Offset X"
+msgstr "ازاحة X"
+
+#: inc/admin.php:824
+msgid "South-East"
+msgstr "الجنوب الشرقي"
+
+#: inc/admin.php:823
+msgid "South"
+msgstr "الجنوب"
+
+#: inc/admin.php:822
+msgid "South-West"
+msgstr "جنوب غربي"
+
+#: inc/admin.php:821
+msgid "East"
+msgstr "الشرق"
+
+#: inc/admin.php:820
+msgid "Center"
+msgstr "المركز"
+
+#: inc/admin.php:819
+msgid "West"
+msgstr "الغرب"
+
+#: inc/admin.php:818
+msgid "North-East"
+msgstr "الشمال الشرقي"
+
+#: inc/admin.php:817
+msgid "North"
+msgstr "الشمال"
+
+#: inc/admin.php:816
+msgid "North-West"
+msgstr "الشمال الغربي"
+
+#: inc/admin.php:815
+msgid "The place relative to the image where the watermark should be placed."
+msgstr "هذا المكان من الصورة حيث يتم اضافة العلامة المائية"
+
+#: inc/admin.php:814
+msgid "Watermark position"
+msgstr "موضع العلامة المائية"
+
+#: inc/admin.php:813
+msgid "A value between 0 and 100 for the opacity level. If set to 0 it will disable the watermark."
+msgstr "قيمة بين 0 و 100 لمستوى التعتيم. إذا تم تعيينه إلى 0 ، فسيتم تعطيل العلامة المائية."
+
+#: inc/admin.php:812
+msgid "Watermark opacity"
+msgstr "عتامة العلامة المائية"
+
+#: inc/admin.php:811
+msgid "Opacity"
+msgstr "الشفافية"
+
+#: inc/admin.php:810
+msgid "The active watermark to use from the list of uploaded watermarks."
+msgstr "العلامة المائية النشطة للاستخدام من قائمة العلامات المائية التي تم تحميلها."
+
+#: inc/admin.php:809
+msgid "Active watermark"
+msgstr "علامة مائية نشطة"
+
+#: inc/admin.php:808
+msgid "Add new watermark"
+msgstr "أضف علامة مائية جديدة"
+
+#: inc/admin.php:807
+msgid "Upload"
+msgstr "رفع"
+
+#: inc/admin.php:806
+msgid "Action"
+msgstr "إجراء"
+
+#: inc/admin.php:805
+msgid "Type"
+msgstr "نوع"
+
+#: inc/admin.php:804
+msgid "Name"
+msgstr "الاسم"
+
+#: inc/admin.php:803
+msgid "ID"
+msgstr "المعرّف"
+
+#: inc/admin.php:802
+msgid "No images available for watermark. Please upload one."
+msgstr "لا صور متوفرة للعلامة المائية. فضلا اِرفع واحدة"
+
+#: inc/admin.php:801
+msgid "Watermarks position settings"
+msgstr "إعدادات موضع العلامات المائية"
+
+#: inc/admin.php:800
+msgid "Possible watermarks"
+msgstr "علامات مائية محتملة"
+
+#: inc/admin.php:799
+msgid "You are allowed to save maximum 5 images."
+msgstr "مسموح لك بحفظ 5 صور كحد أقصى."
+
+#: inc/admin.php:798
+msgid "Removing watermark resource ..."
+msgstr "جاري إزالة مورد العلامة المائية ..."
+
+#: inc/admin.php:689
+msgid ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Optimole relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrain this WordPress feature.You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+msgstr ""
+"يبدو أن هناك مشكلة في تكوين وورد بريس الخاص بك ولا تتوفر وظيفة REST API الأساسية. هذا أمر بالغ الأهمية حيث تعتمد Optimole على هذه الوظيفة للعمل. <br/>\n"
+"قد يكون السبب الجذري إما مكونًا إضافيًا للأمان يحظر هذه الميزة أو بعض تكوينات الخادم المعيبة التي تقيد ميزة وورد بريس هذه. يمكنك محاولة تعطيل أي من المكونات الإضافية للأمان التي تستخدمها لمعرفة ما إذا استمرت المشكلة أو تطلب من الشركة المضيفة لمزيد من التحقيق."
+
+#: inc/admin.php:764
+msgid "We will generate images size based on your visitor's screen using javascript and render them without blocking the page execution via lazyload ."
+msgstr "سننشئ حجم الصور بناءً على شاشة الزائر باستخدام جافا سكريبت ونعرضها دون منع تنفيذ الصفحة عبر خاصية التحميل البطئ للصور."
+
+#: inc/admin.php:420
+msgid "I will do it later"
+msgstr "سأقوم بها لاحقا"
+
+#: inc/admin.php:418
+msgid "Connect to OptiMole"
+msgstr "الإتصال ب OptiMole"
+
+#: inc/admin.php:415
+msgid "Welcome to %1$sOptiMole%2$s, the easiest way to optimize your website images. Your users will enjoy a %3$sfaster%4$s website after you connect it with our service."
+msgstr "مرحبًا بك في %1$sOptiMole%2$s, أسهل طريقة لتحسين صور موقع الويب الخاص بك. سيستمتع المستخدمون بموقع%3$sاسرع%4$sبعد توصيله بخدمتنا."
+
+#: inc/admin.php:776 inc/admin.php:832
+msgid "Save changes"
+msgstr "احفظ التغييرات"
+
+#: inc/admin.php:759
+msgid "Height"
+msgstr "ارتفاع"
+
+#: inc/admin.php:788
+msgid "Width"
+msgstr "عرض"
+
+#: inc/admin.php:778
+msgid "We will resize all images with sizes greater than these values."
+msgstr "سنقوم بتغيير حجم جميع الصور بأحجام أكبر من هذه القيم."
+
+#: inc/admin.php:779
+msgid "Resize large images."
+msgstr "تغيير حجم الصور الكبيرة."
+
+#: inc/admin.php:721
+msgid "Show in the WordPress admin bar the available quota from Optimole service."
+msgstr "اظهر معدل الاستهلاك من الخدمة فى شريط مدير الموقع "
+
+#: inc/admin.php:774
+msgid "Replace all the image urls from your website with the ones optimized by Optimole."
+msgstr "استبدل جميع عناوين URL للصور من موقع الويب الخاص بك بأخرى تم تحسينها بواسطة Optimole."
+
+#: inc/admin.php:772
+msgid "See one sample image which will help you choose the right quality of the compression."
+msgstr "اعرض عينة من الصورة لتساعدك في اختيار أي جودات الضغط هي الأنسب."
+
+#: inc/admin.php:768
+msgid "You dont have any images in your Media Library. Add one and check how the Optimole will perform."
+msgstr "لا يوجد لديك صور فى مكتبة الميديا. اضف ضورة ثم تفحص كيف ستعمل الاضافة"
+
+#: inc/admin.php:775
+msgid "Loading a sample image. "
+msgstr "تحميل صورة عينة. "
+
+#: inc/admin.php:763
+msgid "Optimized"
+msgstr "مُحسّنة"
+
+#: inc/admin.php:762
+msgid "Original"
+msgstr "الأصلية"
+
+#: inc/admin.php:769
+msgid "Option saved."
+msgstr "تم حفظ الخيارات"
+
+#: inc/admin.php:722
+msgid "Auto"
+msgstr "تلقائي"
+
+#: inc/admin.php:766
+msgid "Low"
+msgstr "منخفض"
+
+#: inc/admin.php:767
+msgid "Medium"
+msgstr "متوسط"
+
+#: inc/admin.php:761
+msgid "High"
+msgstr "مرتفع"
+
+#: inc/admin.php:282 inc/admin.php:696
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: inc/admin.php:695
+msgid "Dashboard"
+msgstr "لوحة التحكم"
+
+#: inc/admin.php:684
+msgid "Bonus, if you dont use a CDN, we got you covered, we will serve the images using CloudFront CD from 200 locations."
+msgstr "مكافأة ، إذا كنت لا تستخدم CDN ، فقد قمنا بتغطيتك ، وسوف نعرض الصور باستخدام CloudFront CD من 200 موقع."
+
+#: inc/admin.php:670
+msgid "You will get access to our image optimization service for %1$sFREE%2$s in the limit of %3$s5k%4$s %5$svisitors%6$s per month. "
+msgstr "ستتمكن من الوصول إلى خدمة تحسين الصور الخاصة بنا %1$sمجاناً%2$s  في حدود%3$s5k%4$s %5$sالزوار%6$s شهريًا."
+
+#: inc/admin.php:666
+msgid "In order to get access to free image optimization service you will need an API key from %s."
+msgstr "من أجل الوصول إلى خدمة تحسين الصور المجانية ، ستحتاج إلى مفتاح API من %s."
+
+#: inc/admin.php:664
+msgid "We have sent you an email with the API key. Please copy and paste the key in the field below."
+msgstr "لقد أرسلنا إليك بريدًا إلكترونيًا بمفتاح API. يرجى نسخ ولصق المفتاح في الحقل أدناه."
+
+#: inc/admin.php:657
+msgid "Error registering account. You can try again %1$shere%2$s "
+msgstr "خطأ في تسجيل الحساب. يمكنك المحاولة مرة أخرى %1$sهنا%2$s "
+
+#: inc/admin.php:656
+msgid "Connect account"
+msgstr "ربط الحسابات"
+
+#: inc/admin.php:655
+msgid "Register account"
+msgstr "تسجيل حساب"
+
+#: inc/admin.php:654
+msgid "I already have an API key."
+msgstr "يوجد لدى بالفعل مفتاح API"
+
+#: inc/admin.php:653
+msgid " Fill in the upper API key field and connect to Optimole service."
+msgstr " املأ حقل مفتاح واجهة برمجة التطبيقات العلوي واتصل بخدمة Optimole."
+
+#: inc/admin.php:652
+msgid "Connect to Optimole."
+msgstr "اتصل بـ Optimole."
+
+#: inc/admin.php:651
+msgid "Copy the API key you have received via email or you can get it from %1$s Optimole dashboard%2$s. <br/>"
+msgstr "انسخ مفتاح واجهة برمجة التطبيقات الذي تلقيته عبر البريد الإلكتروني أو يمكنك الحصول عليه من  %1$s لوحة التحكم الرئيسية لـ Optimole %2$s. <br/>"
+
+#: inc/admin.php:650
+msgid "Enter your API key."
+msgstr "أدخل مفتاح API الخاص بك."
+
+#: inc/admin.php:649
+msgid "Register & Email API key"
+msgstr "تسجيل & مفتاح API البريد الإلكتروني"
+
+#: inc/admin.php:648
+msgid "Your email address"
+msgstr "عنوان بريدك الإلكتروني"
+
+#: inc/admin.php:645
+msgid "Sign-up for API key"
+msgstr "الاشتراك في مفتاح API"
+
+#: inc/admin.php:639
+msgid "Image optimization service"
+msgstr "خدمة تحسين الصورة"
+
+#: inc/admin.php:638
+msgid "Test Optimole"
+msgstr "اختبار Optimole"
+
+#: inc/admin.php:637
+msgid "Privacy"
+msgstr "الخصوصية"
+
+#: inc/admin.php:636
+msgid "Terms"
+msgstr "شروط"
+
+#: inc/admin.php:838
+msgid "Loading your optimized images..."
+msgstr "تحميل الصور المحسنة ..."
+
+#: inc/cli/cli_setting.php:55 inc/rest.php:328
+msgid "Can not connect to Optimole service"
+msgstr "لا يمكن الاتصال بخدمة Optimole"
+
+#: inc/tag_replacer.php:453 inc/tag_replacer.php:466 inc/main.php:226
+#: inc/main.php:236 inc/lazyload_replacer.php:386 inc/lazyload_replacer.php:399
+#: inc/api.php:245 inc/api.php:257 inc/manager.php:556 inc/manager.php:569
+#: inc/url_replacer.php:225 inc/url_replacer.php:238
+msgid "Cheatin&#8217; huh?"
+msgstr "هل تغشّ&#8217; huh?"
+
+#: inc/admin.php:844
+msgid "❤️❤️❤️ Our moles just nailed it, this one is <strong>{ratio}</strong> smaller.  "
+msgstr " ❤️❤️❤️قمنا بفعل الواجب، وهذا <strong>{ratio}</strong> أصغر."
+
+#: inc/admin.php:843
+msgid "🤓 We are on the right track, <strong>{ratio}</strong> squeezed."
+msgstr "are نحن على الطريق الصحيح ، <strong>{ratio}</strong> مضغوط."
+
+#: inc/admin.php:842
+msgid "😬 Not that much, just <strong>{ratio}</strong> smaller."
+msgstr "😬 ليس كثيرًا، فقط  <strong>{ratio}</strong> أصغر."
+
+#: inc/admin.php:841
+msgid "🙉 We couldn't do better, this image is already optimized at maximum. "
+msgstr "🙉 لم نتمكن من القيام بعمل أفضل ، فقد تم تحسين هذه الصورة بالفعل على أقصى تقدير"
+
+#: inc/admin.php:840
+msgid "optimized images"
+msgstr "تحسين الصور"
+
+#: inc/admin.php:839
+msgid "Last"
+msgstr "الاخير"
+
+#: inc/admin.php:837
+msgid "Optimization"
+msgstr "اختيار الامثل"
+
+#: inc/admin.php:797 inc/admin.php:835
+msgid "Image"
+msgstr "صورة"
+
+#: inc/admin.php:730
+msgid "Disabled"
+msgstr "معطّل"
+
+#: inc/admin.php:745
+msgid "Enabled"
+msgstr "مفعّل"
+
+#: inc/admin.php:760
+msgid "Hide"
+msgstr "اخفاء"
+
+#: inc/admin.php:777
+msgid "Show"
+msgstr "اظهار"
+
+#: inc/admin.php:736
+msgid "Enable image replacement"
+msgstr "تمكين استبدال الصورة"
+
+#: inc/admin.php:780
+msgid "Admin bar status"
+msgstr "حالة شريط المسؤول"
+
+#: inc/admin.php:662
+msgid "Logged in as"
+msgstr "مسجّل الدخول كـ"
+
+#: inc/admin.php:661
+msgid "Monthly Quota"
+msgstr "الحصة الشهرية"
+
+#: inc/admin.php:660
+msgid "Monthly Usage"
+msgstr "الاستخدام الشهري"
+
+#: inc/admin.php:659
+msgid "Not connected"
+msgstr "غير متصل"
+
+#: inc/admin.php:658
+msgid "Connected"
+msgstr "متصل"
+
+#: inc/admin.php:647
+msgid "Status"
+msgstr "الحالة"
+
+#: inc/admin.php:646
+msgid "Invalid API Key"
+msgstr "مفتاح API غير صالح"
+
+#: inc/admin.php:644
+msgid "API Key"
+msgstr "مفتاح API"
+
+#: inc/admin.php:641
+msgid "Disconnect"
+msgstr "تم قطع الاتصال"
+
+#: inc/admin.php:640
+msgid "Connect to OptiMole Service"
+msgstr "الاتصال بالخدمة "

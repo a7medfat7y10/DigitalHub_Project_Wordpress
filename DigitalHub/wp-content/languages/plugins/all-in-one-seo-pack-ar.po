@@ -1,0 +1,2259 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Arabic
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-06 19:47:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ((n == 1) ? 1 : ((n == 2) ? 2 : ((n % 100 >= 3 && n % 100 <= 10) ? 3 : ((n % 100 >= 11 && n % 100 <= 99) ? 4 : 5))));\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ar\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: modules/aioseop_performance.php:352
+msgid "Active Plugins"
+msgstr "الإضافات النشطة"
+
+#: modules/aioseop_performance.php:364
+msgid "Inactive Plugins"
+msgstr "الإضافات غير النشطة"
+
+#: inc/commonstrings.php:56
+msgid "Create RSS Sitemap as well."
+msgstr "إنشاء RSS Sitemap كذلك."
+
+#: modules/aioseop_sitemap.php:294
+msgid "Create RSS Sitemap"
+msgstr "إنشاء RSS Sitemap"
+
+#. translators: This is the name of a settings section where users can indicate
+#. which post types and taxonomies they want to use All in One SEO Pack with.
+#: aioseop_class.php:1130
+msgid "Content Type Settings"
+msgstr "إعدادات نوع المحتوى"
+
+#: modules/aioseop_robots.php:745
+msgid "Modify Rule"
+msgstr "تعديل القواعد"
+
+#: modules/aioseop_robots.php:58
+msgid "Disallow"
+msgstr "رفض"
+
+#: modules/aioseop_robots.php:54
+msgid "Rule"
+msgstr "قواعد"
+
+#: modules/aioseop_robots.php:645
+msgid "Identical rule exists: %s"
+msgstr "توجد قاعدة متطابقة: %s"
+
+#: modules/aioseop_robots.php:626
+msgid "Directory Path cannot be empty"
+msgstr "الدليل لا يمكن أن يكون فارغًا"
+
+#: modules/aioseop_robots.php:214
+msgid "Unable to read file"
+msgstr "غير قادر على قراءة الملف"
+
+#: modules/aioseop_robots.php:84
+msgid "Configured Rules"
+msgstr "القواعد التي تم تكوينها"
+
+#: modules/aioseop_robots.php:57
+msgid "Allow"
+msgstr "السماح"
+
+#: modules/aioseop_robots.php:219
+msgid "Unable to delete file"
+msgstr "غير قادر على حذف الملف"
+
+#: modules/aioseop_robots.php:623
+msgid "User Agent cannot be empty"
+msgstr "لا يمكن أن يكون وكيل المستخدم فارغاً"
+
+#: modules/aioseop_robots.php:135
+msgid "A physical file exists. This feature cannot be used."
+msgstr "يوجد ملف فعلي. لا يمكن استخدام هذه الخاصية."
+
+#. translators: Shows which sitemap files were renamed.
+#: modules/aioseop_sitemap.php:1331
+msgid "Renamed %1$s to %2$s."
+msgstr "تم إعادة تسمية %1$s إلى %2$s."
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1385
+msgid "File %s already exists!"
+msgstr "الملف %s موجود مسبقًا!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1375
+msgid "Failed to rename file %s!"
+msgstr "فشل في إعادة تسمية الملف %s!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1346
+msgid "Failed to delete file %s!"
+msgstr "فشل في حذف الملف %s!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1314
+msgid "File %s isn't writable!"
+msgstr "الملف %s غير قابل للكتابة!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1352 admin/aioseop_module_class.php:1382
+msgid "File %s doesn't exist!"
+msgstr "الملف %s غير موجود!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1312
+msgid "Failed to write file %s!"
+msgstr "فشل في كتابة الملف %s!"
+
+#: inc/aioseop_functions.php:503
+msgid "All values are mandatory."
+msgstr "جميع القيم مطلوبة."
+
+#: inc/commonstrings.php:64 admin/class-aioseop-helper.php:757
+msgid "Exclude Images in your sitemap."
+msgstr "استبعاد الصور في ملف sitemap الخاص بك."
+
+#: modules/aioseop_sitemap.php:210
+msgid "Exclude Images"
+msgstr "استبعاد الصور"
+
+#: inc/commonstrings.php:94
+msgid "Track Events:"
+msgstr "تتبع الأحداث:"
+
+#: inc/commonstrings.php:100
+msgid "Track Facebook and Twitter:"
+msgstr "تتبع فيسبوك وتويتر:"
+
+#: inc/commonstrings.php:93
+msgid "Track Outbound Forms:"
+msgstr "تتبع النماذج الصادرة:"
+
+#: inc/commonstrings.php:96
+msgid "Track Page Visibility:"
+msgstr "تتبع رؤية الصفحة:"
+
+#: inc/commonstrings.php:97
+msgid "Track Media Query:"
+msgstr "تتبع استعلامات الوسائط:"
+
+#: inc/commonstrings.php:98
+msgid "Track Elements Visibility:"
+msgstr "تتبع رؤية العناصر:"
+
+#: inc/commonstrings.php:99
+msgid "Track Page Scrolling:"
+msgstr "تتبع تمرير الصفحة:"
+
+#: inc/commonstrings.php:95
+msgid "Track URL Changes:"
+msgstr "تتبع تغييرات الروابط:"
+
+#. translators: leave all the code inside the brackets < and > unchanged.
+#: inc/commonstrings.php:106
+msgid "You must <a href=\"%s\">enter a valid License Key</a> for it to work."
+msgstr "يجب <a href=\"%s\"> إدخال مفتاح ترخيص</a> صحيح ليعمل."
+
+#: inc/commonstrings.php:104
+msgid "%s is almost ready."
+msgstr "%s جاهز تقريبًا."
+
+#. translators: This is a setting that allows users to add the NOINDEX robots
+#. meta tag value to the current post/page.
+#: aioseop_class.php:1001
+msgid "NOINDEX this page/post"
+msgstr "عدم فهرسة هذه الصفحة/المقالة"
+
+#: admin/aioseop_module_class.php:2570
+msgid "Upload Image"
+msgstr "رفع صورة"
+
+#: modules/aioseop_opengraph.php:473
+msgid "Enable Facebook Meta for Post Types"
+msgstr "تفعيل Facebook Meta لأنواع المقالات"
+
+#. translators: This is a label that shows what page is used as the
+#. homepage/front page.
+#: modules/aioseop_performance.php:347
+msgid "Front Page Displays"
+msgstr "عرض الصفحة الرئيسية"
+
+#: modules/aioseop_performance.php:348
+msgid "Search Engine Visibility"
+msgstr "الظهور لمحركات البحث"
+
+#. translators: This is a label that shows what the current permalink structure
+#. is. The permalink structure is the way that the URLs of the website are
+#. formatted, e.g. "examplesite.com/?p=123" or
+#. "examplesite.com/1970/01/01/sample-post/".
+#: modules/aioseop_performance.php:350
+msgid "Permalink Setting"
+msgstr "خصائص الرابط الدائم"
+
+#: modules/aioseop_performance.php:345
+msgid "Site Language"
+msgstr "لغة الموقع"
+
+#: modules/aioseop_performance.php:344
+msgid "Site Title"
+msgstr "عنوان الموقع"
+
+#: inc/admin/class-aioseop-education.php:916
+#: admin/display/general-metaboxes.php:190
+msgid "Advanced support for WooCommerce"
+msgstr "دعم متقدم لـ WooCommerce"
+
+#: aioseop_class.php:408
+msgid "Nothing found for %request_words%"
+msgstr "لم يتم العثور على %request_words%"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Email Address"
+msgstr "البريد الإلكتروني"
+
+#: admin/display/general-metaboxes.php:124
+msgid "Subscribe"
+msgstr "اشتراك"
+
+#: admin/display/general-metaboxes.php:195
+msgid "Video SEO Module"
+msgstr "فيديو نموذج SEO"
+
+#: admin/display/general-metaboxes.php:203
+msgid "Access to Knowledge Center"
+msgstr "الدخول لمركز المعرفة"
+
+#: admin/display/general-metaboxes.php:186
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "الـ SEO للتصنيفات، الوسوم والفئات المخصصة"
+
+#: modules/aioseop_opengraph.php:325
+msgid "Use Content For Autogenerated OG Descriptions"
+msgstr "استخدام المحتوى من أجل تفعيل التوليد التلقائي للوصوف og:description"
+
+#. translators: This is a button users can click to reset the settings of a
+#. specific module to their default values. %s is a placeholder and will be
+#. replaced with the name of a settings menu (e.g. "Performance").
+#: admin/aioseop_module_class.php:3036
+msgid "Reset %s Settings to Defaults"
+msgstr "إعادة تعيين إعدادات %s إلى الافتراضية"
+
+#. translators: Shows which files were removed.
+#: modules/aioseop_sitemap.php:1445
+msgid "Removed empty file %s."
+msgstr "حذف الملف الفارغ %s."
+
+#: inc/commonstrings.php:90
+msgid "Show SEO News"
+msgstr "عرض جديد السيو"
+
+#: inc/commonstrings.php:29
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "هذا الخيار يقوم بعرض ودجت أخبار SEO عبر واجهة لوحة التحكم."
+
+#: admin/display/welcome-content.php:135
+msgid "Continue to the General Settings"
+msgstr "المتابعة إلى الإعدادات العامة"
+
+#: admin/display/dashboard_widget.php:40
+msgid "SEO News"
+msgstr "أخبار SEO"
+
+#: admin/display/aioseop-welcome.php:134
+msgid "What&#8217;s New"
+msgstr "ما الجديد"
+
+#: admin/display/welcome-content.php:109
+msgid "Did You Know?"
+msgstr "هل تعلم؟"
+
+#: admin/display/welcome-content.php:103
+msgid "Set up Google Analytics"
+msgstr "إعداد احصائيات جوجل"
+
+#: admin/display/welcome-content.php:97
+msgid "Submit an XML Sitemap to Google"
+msgstr "أرسل ملف خريطة الموقعبصيغة XML لجوجل"
+
+#: admin/display/welcome-content.php:91
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "ارشادات لأرشفة أفلض للعناوين والوصف"
+
+#: admin/display/welcome-content.php:85
+msgid "Tips for good on-page SEO"
+msgstr "نصائح لأرشفة الصفحة المفردة"
+
+#: admin/display/welcome-content.php:79
+msgid "Beginners Guide for Social Meta module"
+msgstr "إرشادات لخيار الميتا الإجتماعية"
+
+#: admin/display/welcome-content.php:73
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "إرشادات لخيار خرائط الموقع"
+
+#: admin/display/welcome-content.php:115
+msgid "We have complete documentation on every setting and feature"
+msgstr "لدينا وثائق دعم لكل خيار وميزة في الإضافة"
+
+#: admin/display/welcome-content.php:55
+msgid "Get Started"
+msgstr "الشروع في ..."
+
+#: admin/display/welcome-content.php:51
+msgid "Translate"
+msgstr "الترجمة"
+
+#: admin/display/welcome-content.php:39
+msgid "Upgrade"
+msgstr "الترقية"
+
+#: admin/class-aioseop-helper.php:447
+msgid "Redirect attachment pages to post parent."
+msgstr "إعادة توجيه صفحة المرفقات الى الموضوع الأصلي"
+
+#: admin/class-aioseop-helper.php:936
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "يسمح لك هذا الخيار بتحميل صورة بارزة مخصصة خاص بتويتر تعرض مع المقال"
+
+#: modules/aioseop_opengraph.php:451
+msgid "Custom Twitter Image"
+msgstr "صورة تويتر مخصصة"
+
+#: inc/commonstrings.php:66 admin/class-aioseop-helper.php:759
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "توليد الخرائط بشكل الي بدل ملفات تابثة."
+
+#: modules/aioseop_importer_exporter.php:585
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b> تحذير أمني: </b>هذا الملف يبدو خطرا على الموقع. يرجى التحقق من عدم وجود أي برمجيات خبيثة."
+
+#: admin/meta_import.php:103 admin/meta_import.php:109
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "عذراً، لا يمكنك أن تفعل ذلك. الرجاء اختيار منصة وثم انقر فوق تحليل أو تحويل."
+
+#: admin/meta_import.php:241
+msgid "Convert"
+msgstr "التحويل"
+
+#: admin/meta_import.php:236
+msgid "Analyze"
+msgstr "تحليل"
+
+#: admin/meta_import.php:222
+msgid "Themes"
+msgstr "الثيمات"
+
+#: admin/meta_import.php:214
+msgid "Plugins"
+msgstr "إضافات"
+
+#: admin/meta_import.php:168
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "استخدام القطرة إلى أسفل أدناه لاختيار البرنامج المساعد أو موضوع ترغب في استيراد بيانات كبار المسئولين الاقتصاديين من."
+
+#: admin/meta_import.php:182
+msgid "Please Note: "
+msgstr "يرجى ملاحظة:"
+
+#: admin/meta_import.php:196
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "انقر فوق \"تحويل\" لتنفيذ عملية الاستيراد. بعد اكتمال عملية الاستيراد، سيتم تنبيهك إلى عدد السجلات التي تم استيرادها، وأن عدد السجلات التي يمكن تجاهلها، استناداً إلى المعايير المذكورة أعلاه."
+
+#: admin/meta_import.php:210
+msgid "Import SEO data from:"
+msgstr "استيراد بيانات السيو من"
+
+#: admin/meta_import.php:212
+msgid "Choose platform:"
+msgstr "اختر النظام الأساسي:"
+
+#: admin/meta_import.php:118
+msgid "Analysis Results"
+msgstr "نتائج التحليل"
+
+#: admin/meta_import.php:122 admin/meta_import.php:145
+msgid "Sorry, something went wrong. Please try again"
+msgstr "حدث خطأ، يرجى المحاولة مرة أخرى."
+
+#: admin/meta_import.php:131
+msgid "Compatible data:"
+msgstr "بيانات متوافقة:"
+
+#: admin/meta_import.php:141
+msgid "Conversion Results"
+msgstr "نتائج التحويل"
+
+#: admin/meta_import.php:165
+msgid "Import SEO Settings"
+msgstr "إستيردا اعدادات الارشفة"
+
+#: admin/meta_import.php:58
+msgid "All in One SEO has been deactivated"
+msgstr "تم تعطيل إضافة All in One SEO"
+
+#: admin/meta_import.php:85
+msgid "Import SEO Data"
+msgstr "استيراد البيانات"
+
+#: admin/meta_import.php:85
+msgid "SEO Data Import"
+msgstr "استيراد بيانات السيو"
+
+#: inc/commonstrings.php:113
+msgid "Manage Licenses"
+msgstr "إدارة التراخيص"
+
+#: admin/class-aioseop-helper.php:1085
+msgid "Block Referral Spam using HTTP."
+msgstr "حظر الإحالات المزعجة ( spam) عبر HTTP"
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block Bad Bots using HTTP"
+msgstr "حظر العناكب المزعجة (spam) عبر HTTP"
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Block Referral Spam using HTTP"
+msgstr "حظر العناكب المزعجة (spam) عبر HTTP"
+
+#: modules/aioseop_bad_robots.php:29
+msgid "Use Custom Blocklists"
+msgstr "إستخدام لائحة الحظر المخصصة"
+
+#: inc/admin/views/class-aioseop-about.php:406
+#: modules/aioseop_feature_manager.php:104
+msgid "Image SEO"
+msgstr "سيو الصور"
+
+#: modules/aioseop_feature_manager.php:90
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "هذه الميزة تسح لك بإنشاء و تعديل خريطة الفيديوهات وتقديمها الى محركات البحث جوجل,/ بينغ/ ياهو و ايضا Ask.com ."
+
+#: inc/commonstrings.php:108
+msgid "Purchase one now"
+msgstr "شراء النسخة المدفوعة الأن"
+
+#: inc/commonstrings.php:114
+msgid "License Key is not set yet or invalid. "
+msgstr "لم يتم تعيين مفتاح ترخيص أو انه غير صالحة ."
+
+#: inc/commonstrings.php:116
+msgid "Notice: "
+msgstr "ملاحظة:"
+
+#: inc/commonstrings.php:67
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "اذا قمت بتعين هذا الخيار سيتم عرض فقط المواضيع التي تحتوي على فيديوهات في خريطة الموقع."
+
+#: inc/commonstrings.php:120
+msgid "Show Only Posts With Videos"
+msgstr "عرض فقط المواضيع التي تحتوي على فيديوهات"
+
+#. translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pack Pro.
+#: class-aioseop-core.php:675 aioseop_class.php:5366 admin/display/menu.php:64
+#: admin/display/notices/wc-detected-notice.php:32
+msgid "Upgrade to Pro"
+msgstr "الترقية إلى Pro"
+
+#. translators: This is an action link users can click to open our general
+#. documentation page.
+#: class-aioseop-core.php:664
+msgid "Documentation"
+msgstr "مستندات المساعدة"
+
+#. translators: This is an action link users can click to open the General
+#. Settings menu.
+#: class-aioseop-core.php:652 aioseop_class.php:5290
+msgid "SEO Settings"
+msgstr "إعدادات SEO"
+
+#: aioseop_class.php:4620
+msgid "Debug String"
+msgstr "تصحيح الوصلات"
+
+#. translators: The taxonomy title format is the template that is used to
+#. format the title for each taxonomy term of a certain taxonomy (Categories,
+#. Tags, etc.).
+#: aioseop_class.php:3721
+msgid "Taxonomy Title Format:"
+msgstr "شكل عنوان التصنيف"
+
+#: inc/commonstrings.php:26
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "يرجى وضع رمز التفعيل الذي تم إرساله لك عند شراء الإضافة. سيستخدم من أجل التحديث التلقائي للإضافة في المستقبل."
+
+#: modules/aioseop_opengraph.php:270
+msgid "Facebook Admin ID"
+msgstr "رقم حساب الفايسبوك"
+
+#: modules/aioseop_opengraph.php:275
+msgid "Facebook App ID"
+msgstr "معرض تطبيق الفيسبوك"
+
+#: admin/class-aioseop-helper.php:901
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr ""
+"ادخل رقم حساب تطبيق الفايسبوك هنا. \n"
+"للحصول على رقم حساب تطبيق الفايسبوك اضغط على الرابط التالي https://developers.facebook.com/docs/platforminsights/domains"
+
+#: inc/commonstrings.php:70 admin/class-aioseop-helper.php:761
+msgid "The priority of the page."
+msgstr "اولوية الصفحة"
+
+#: inc/commonstrings.php:71 admin/class-aioseop-helper.php:762
+msgid "The frequency of the page."
+msgstr "ترددات الصفحة"
+
+#: inc/commonstrings.php:72 admin/class-aioseop-helper.php:763
+msgid "Last modified date of the page."
+msgstr "تاريخ آخر تعديل للصفحة"
+
+#: modules/aioseop_sitemap.php:175
+msgid "Schedule Updates"
+msgstr "جدولة التحديثات"
+
+#: modules/aioseop_sitemap.php:178
+msgid "No Schedule"
+msgstr "غير مجدول"
+
+#: aioseop_class.php:1070 modules/aioseop_sitemap.php:179
+msgid "Daily"
+msgstr "يومي"
+
+#: modules/aioseop_sitemap.php:186
+msgid "Enable Sitemap Indexes"
+msgstr "تفعيل ارشفة خريطة الموقع"
+
+#: modules/aioseop_sitemap.php:208
+msgid "Include Date Archive Pages"
+msgstr "تضمين تاريخ صفحات الأرشيف"
+
+#: modules/aioseop_sitemap.php:209
+msgid "Include Author Pages"
+msgstr "تضمين كاتب الصفحة"
+
+#: modules/aioseop_sitemap.php:212
+msgid "Dynamically Generate Sitemap"
+msgstr "انشاء خريطة موقع تلقائية"
+
+#: modules/aioseop_sitemap.php:259 admin/class-aioseop-helper.php:780
+#: admin/class-aioseop-helper.php:781 admin/class-aioseop-helper.php:782
+#: admin/class-aioseop-helper.php:783 admin/class-aioseop-helper.php:784
+#: admin/class-aioseop-helper.php:796 admin/class-aioseop-helper.php:804
+msgid "frequency"
+msgstr "الترددات"
+
+#: modules/aioseop_sitemap.php:266
+msgid "homepage"
+msgstr "الصفحة الرئيسية"
+
+#: modules/aioseop_sitemap.php:267
+msgid "posts"
+msgstr "التدوينات"
+
+#: modules/aioseop_sitemap.php:270
+msgid "author pages"
+msgstr "كتاب الصفحات"
+
+#: modules/aioseop_sitemap.php:320
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "ادخل المعلومات التالية لأي رابط اضافي لخريطة الموقع الغير مدارة بواسطة الووردبرس"
+
+#: modules/aioseop_sitemap.php:326
+msgid "Page URL"
+msgstr "رابط الصفحة"
+
+#: modules/aioseop_sitemap.php:331
+msgid "Page Priority"
+msgstr "اولوية الصفحة"
+
+#: modules/aioseop_sitemap.php:343
+msgid "Last Modified"
+msgstr "آخر تعديل"
+
+#: modules/aioseop_sitemap.php:350 modules/aioseop_sitemap.php:384
+msgid "Additional Pages"
+msgstr "صفحات اضافية"
+
+#: modules/aioseop_sitemap.php:372
+msgid "Excluded Pages"
+msgstr "استبعاد صفحات"
+
+#: modules/aioseop_sitemap.php:390
+msgid "Excluded Items"
+msgstr "استبعاد اشياء"
+
+#: modules/aioseop_sitemap.php:396
+msgid "Priorities"
+msgstr "الأولوية"
+
+#: modules/aioseop_sitemap.php:403
+msgid "Frequencies"
+msgstr "الترددات"
+
+#: modules/aioseop_sitemap.php:554
+msgid "Once Monthly"
+msgstr "مرة واحدة شهريا"
+
+#. translators: This refers to entries in the Media Library (images, videos,
+#. recordings and other files) and their attachment pages.
+#: aioseop_class.php:3647 aioseop_class.php:3650
+#: modules/aioseop_sitemap.php:767 admin/aioseop_module_class.php:945
+msgid "Media / Attachments"
+msgstr "الوسائط / المرفقات"
+
+#: modules/aioseop_sitemap.php:769
+msgid "All Post Types"
+msgstr "كل انواع التدوينات"
+
+#: modules/aioseop_sitemap.php:918
+msgid "Update Sitemap"
+msgstr "تحديث خريطة الموقع"
+
+#: modules/aioseop_sitemap.php:1070
+#: admin/display/notices/blog-visibility-notice.php:20
+msgid "Reading Settings"
+msgstr "اعدادات القراءة"
+
+#. translators: Shows which sitemap files have been deleted.
+#: modules/aioseop_sitemap.php:1315
+msgid "Deleted %s."
+msgstr "تم حذف %s"
+
+#. translators: Shows which sitemap files couldn't be renamed.
+#: modules/aioseop_sitemap.php:1326
+msgid "Couldn't rename file %s!"
+msgstr "لا يمكن اعادة تسمية ملف %s!"
+
+#: modules/aioseop_sitemap.php:1486
+msgid "Rename Conflicting Files"
+msgstr "تضارب في تسمية الملفات"
+
+#: modules/aioseop_sitemap.php:1485
+msgid "Delete Conflicting Files"
+msgstr "حذف الملفات المتضاربة"
+
+#: modules/aioseop_sitemap.php:1648
+msgid "dynamic"
+msgstr "عملي"
+
+#: modules/aioseop_sitemap.php:1646
+msgid "static"
+msgstr "ثابت"
+
+#: inc/commonstrings.php:80 modules/aioseop_sitemap.php:204
+#: admin/class-aioseop-helper.php:775 admin/class-aioseop-helper.php:782
+msgid "Taxonomies"
+msgstr "التصنيفات"
+
+#: modules/aioseop_sitemap.php:245
+msgid "Select Individual"
+msgstr "تحديد فردي"
+
+#: modules/aioseop_sitemap.php:268
+msgid "taxonomies"
+msgstr "التصنيفات"
+
+#: modules/aioseop_sitemap.php:581
+msgid "Daily scheduled sitemap check has finished."
+msgstr "تم الإنتهاء من التحقق اليومي من خريطة الموقع"
+
+#: modules/aioseop_sitemap.php:770
+msgid "All Taxonomies"
+msgstr "جميع التصنيفات"
+
+#. translators: Shows which sitemap files couldn't be found.
+#: modules/aioseop_sitemap.php:1336
+msgid "Couldn't find file %s!"
+msgstr "لا يمكن العثور على الملف %s!"
+
+#. translators: Shows which 'unknown' file is conflicting with the current
+#. sitemap settings.
+#: modules/aioseop_sitemap.php:1439
+msgid "Potential conflict with unknown file %s."
+msgstr "مشكل محتمل مع ملف غير معروف %s."
+
+#: aioseop_class.php:1071 modules/aioseop_sitemap.php:180
+msgid "Weekly"
+msgstr "أسبوعيا"
+
+#: aioseop_class.php:1072 modules/aioseop_sitemap.php:181
+msgid "Monthly"
+msgstr "شهريا"
+
+#: aioseop_class.php:1037 aioseop_class.php:1067
+#: modules/aioseop_sitemap.php:244
+msgid "Do Not Override"
+msgstr "لا يجب تغيرها"
+
+#: inc/commonstrings.php:77 modules/aioseop_sitemap.php:258
+#: admin/class-aioseop-helper.php:773 admin/class-aioseop-helper.php:774
+#: admin/class-aioseop-helper.php:775 admin/class-aioseop-helper.php:776
+#: admin/class-aioseop-helper.php:777 admin/class-aioseop-helper.php:795
+#: admin/class-aioseop-helper.php:803
+msgid "priority"
+msgstr "الأولوية"
+
+#: modules/aioseop_sitemap.php:269
+msgid "archive pages"
+msgstr "أرشيف الصفحات"
+
+#: modules/aioseop_sitemap.php:337
+msgid "Page Frequency"
+msgstr "معدل تردد الصفحة"
+
+#: modules/aioseop_sitemap.php:1065
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "يبدو ان خريطة الموقع المتغيرة لا تستخدم قواعد إعادة الكتابة صحيحة. رجاءا قم بتعطيل الاضافات الاخرى لخريطة الموقع. يرجى تعطيل أي إضافات أخرى لخريطة الموقع أو وظيفة في موقعك وإعادة تعيين الروابط الدائمة الخاصة بك"
+
+#: modules/aioseop_sitemap.php:1294
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "تحذير: خريطة الموقع المتغيرة يجب أن تكون فيها روابط دائمة مفعلة."
+
+#: modules/aioseop_sitemap.php:199
+msgid "Post Types"
+msgstr "أنواع المقالات"
+
+#: modules/aioseop_sitemap.php:190
+msgid "Maximum Posts Per Sitemap Page"
+msgstr "العدد الأقصى للتدوينات لكل صفحة Sitemap"
+
+#. translators: %1$s and %2$s are placeholders, which means that it should not
+#. be translated. They will be replaced with nouns in the application.
+#: inc/commonstrings.php:76 admin/class-aioseop-helper.php:773
+#: admin/class-aioseop-helper.php:774 admin/class-aioseop-helper.php:775
+#: admin/class-aioseop-helper.php:776 admin/class-aioseop-helper.php:777
+#: admin/class-aioseop-helper.php:780 admin/class-aioseop-helper.php:781
+#: admin/class-aioseop-helper.php:782 admin/class-aioseop-helper.php:783
+#: admin/class-aioseop-helper.php:784 admin/class-aioseop-helper.php:795
+#: admin/class-aioseop-helper.php:796 admin/class-aioseop-helper.php:803
+#: admin/class-aioseop-helper.php:804
+msgid "Manually set the %1$s of your %2$s."
+msgstr "تعيين %1$s يدويًا لـ %2$s الخاص بك."
+
+#: inc/commonstrings.php:52 modules/aioseop_sitemap.php:823
+msgid "Taxonomy"
+msgstr "الفئة"
+
+#: modules/aioseop_sitemap.php:357
+msgid "Add URL"
+msgstr "إضافة رابط"
+
+#: modules/aioseop_sitemap.php:550 admin/class-aioseop-usage.php:211
+msgid "Once Weekly"
+msgstr "مرة أسبوعيًا"
+
+#: aioseop_class.php:1206 modules/aioseop_opengraph.php:653
+msgid "Advanced Settings"
+msgstr "الاعدادات المتقدمة"
+
+#: aioseop_class.php:1181
+msgid "Noindex Settings"
+msgstr "اعدادات عدم الأرشفة"
+
+#. translators: This is the text of a button that allows users to reset the
+#. General Settings to their default values.
+#: aioseop_class.php:3870
+msgid "Reset General Settings to Defaults"
+msgstr "إعادة الإعدادات العامة إلى الإفتراضية"
+
+#. translators: This is the text of a button that allows users to reset all
+#. settings across the entire plugin to their default values.
+#: aioseop_class.php:3876
+msgid "Reset ALL Settings to Defaults"
+msgstr "إعادة كافة الإعدادات إلى الإفتراضية"
+
+#. translators: This indicates that the current post/page is using the default
+#. value for its post type, which is NOFOLLOW.
+#: aioseop_class.php:3973
+msgid "Default - nofollow"
+msgstr "الإفتراضي - لا متابعة"
+
+#: aioseop_class.php:3974
+msgid "follow"
+msgstr "متابعة"
+
+#: aioseop_class.php:3975
+msgid "nofollow"
+msgstr "لا متابعة"
+
+#: admin/display/general-metaboxes.php:47
+msgid "Reset Dismissed Notices"
+msgstr "إعادة التنبهات المتجاهلة"
+
+#: aioseop_class.php:965 modules/aioseop_opengraph.php:546
+msgid "UPGRADE TO PRO VERSION"
+msgstr "التطوير إلى النسخة الإحترافية"
+
+#: admin/display/general-metaboxes.php:115
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "انضم الى قئمتنا البريدية للحصول على نصائح وأسرار الووردبرس"
+
+#: admin/display/general-metaboxes.php:117
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "سجّل اليوم واحصل على نسخة مجانية من الكتاب الإلكتروني Seo Tips في الووردبرس (القيمة 39$)"
+
+#: aioseop_class.php:5561
+msgid "Join Our Mailing List"
+msgstr "انضم الى قائمتنا البريدية"
+
+#. translators: This is an action link users can click to open our premium
+#. support forum.
+#: class-aioseop-core.php:658 aioseop_class.php:5553
+msgid "Support"
+msgstr "الدعم"
+
+#. translators: This string is used as an action link which users can click on
+#. to view the relevant documentation on our website.
+#: aioseop_class.php:5613 admin/aioseop_module_class.php:2281
+#: admin/aioseop_module_class.php:2696 admin/aioseop_module_class.php:3070
+msgid "Help"
+msgstr "المساعدة"
+
+#. translators: This is the name of the main tab of the All in One SEO Pack
+#. meta box that appears on the Edit screen.
+#: aioseop_class.php:5208
+msgid "Main Settings"
+msgstr "الإعدادات الرئيسية"
+
+#. translators: the File Editor module allows users to edit the robots.txt file
+#. or .htaccess file on their site.
+#: modules/aioseop_file_editor.php:20 modules/aioseop_feature_manager.php:62
+msgid "File Editor"
+msgstr "محرر الملفات"
+
+#. translators: The Video Sitemap module allows users to generate a sitemap
+#. with video content in .xml format for their website and submit it to search
+#. engines such as Google, Bing and Yahoo.
+#: inc/commonstrings.php:119 modules/aioseop_sitemap.php:1037
+#: modules/aioseop_feature_manager.php:89
+msgid "Video Sitemap"
+msgstr "فيديو خريطة الموقع"
+
+#. translators: the Importer & Exporter module allows users to import/export
+#. their All in One SEO Pack settings for backup purposes or when migrating
+#. their site.
+#: modules/aioseop_importer_exporter.php:22
+#: modules/aioseop_feature_manager.php:68
+msgid "Importer & Exporter"
+msgstr "المستورد والمصدر"
+
+#: modules/aioseop_feature_manager.php:83
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "فحص النظام وتحسين اداء السيو"
+
+#. translators: the Robots.txt module allows users to provide instructions to
+#. web robots, e.g. search engine crawlers.
+#: modules/aioseop_feature_manager.php:56 modules/aioseop_robots.php:32
+#: modules/aioseop_robots.php:89
+msgid "Robots.txt"
+msgstr "ملف Robots.txt"
+
+#: modules/aioseop_feature_manager.php:202
+msgid "Update Features"
+msgstr "تحديث الميزات"
+
+#: admin/class-aioseop-helper.php:1041
+msgid ".htaccess editor"
+msgstr "محرر .htaccess"
+
+#: modules/aioseop_file_editor.php:31 modules/aioseop_file_editor.php:47
+msgid "Edit .htaccess"
+msgstr "تعديل .htaccess"
+
+#: modules/aioseop_file_editor.php:92
+msgid "Update .htaccess"
+msgstr "تحديث .htaccess"
+
+#: inc/aioseop_functions.php:290 inc/aioseop_functions.php:857
+#: build/aioseop-link.js:6
+msgid "Edit"
+msgstr "تعديل"
+
+#: inc/aioseop_functions.php:292 inc/aioseop_functions.php:300
+msgid "Save"
+msgstr "حفظ"
+
+#: inc/aioseop_functions.php:293 inc/aioseop_functions.php:301
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: inc/aioseop_functions.php:297
+msgid "Revisions"
+msgstr "المراجعات"
+
+#: inc/aioseop_functions.php:298
+msgid "Insert time"
+msgstr "ادخال الوقت"
+
+#: modules/aioseop_performance.php:275 modules/aioseop_performance.php:280
+#: modules/aioseop_performance.php:285 modules/aioseop_performance.php:294
+msgid "No"
+msgstr "لا"
+
+#: inc/aioseop_functions.php:642
+msgid "What Does This Mean?"
+msgstr "ما معنى هذا؟"
+
+#. translators: The "PHP IPTC" part should not be translated.
+#: modules/aioseop_performance.php:331
+msgid "PHP IPTC support"
+msgstr "دعم PHP IPTC "
+
+#. translators: The "PHP XML" part should not be translated.
+#: modules/aioseop_performance.php:333
+msgid "PHP XML support"
+msgstr "دعم PHP XML "
+
+#. translators: This is the base URL (e.g. "examplewebsite.com") of the
+#. website.
+#: modules/aioseop_performance.php:335
+msgid "Site URL"
+msgstr "رابط الموقع"
+
+#. translators: This is the URL of the homepage (e.g.
+#. "examplewebsite.com/home") of the website.
+#: modules/aioseop_performance.php:337
+msgid "Home URL"
+msgstr "رابط الصفحة الرئيسية"
+
+#: modules/aioseop_performance.php:338
+msgid "WordPress Version"
+msgstr "نسخة الووردبرس"
+
+#. translators: "DB" is an abbreviation for "Database".
+#: modules/aioseop_performance.php:340
+msgid "WordPress DB Version"
+msgstr "نسخة قاعدة بيانات الووردبرس"
+
+#. translators: "Multisite" or "WordPress Multisite" is a feature that allows
+#. users to create a network of websites. Leave this in English if there is no
+#. translation for this in your locale glossary.
+#: modules/aioseop_performance.php:342
+msgid "Multisite"
+msgstr "مواقع متعددة"
+
+#: modules/aioseop_performance.php:343
+msgid "Active Theme"
+msgstr "القالب المفعل"
+
+#. translators: This message is shown when a form could not be submitted due to
+#. a verification error (e.g. when a field is required and is still blank).
+#: modules/aioseop_performance.php:389
+msgid "Form submission error: verification check failed."
+msgstr "استمارة إرسال الأخطاء : فشل في التحقق"
+
+#. translators: %s is a placeholder and should not be translated. It will be
+#. replaced with an e-mail address.
+#: modules/aioseop_performance.php:441
+msgid "Failed to send to %s."
+msgstr "فشل الإرسال إلى %s."
+
+#: modules/aioseop_performance.php:430
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD تصحيح البريد من الموقع %s."
+
+#. translators: %s is a placeholder and should not be translated. It will be
+#. replaced with an e-mail address.
+#: modules/aioseop_performance.php:437
+msgid "Sent to %s."
+msgstr "إرسال إلى %s."
+
+#: modules/aioseop_performance.php:467 build/aioseop-link.js:6
+msgid "Submit"
+msgstr "إرسال"
+
+#: modules/aioseop_robots.php:48
+msgid "User Agent"
+msgstr "وكيل المستخدم"
+
+#: modules/aioseop_robots.php:64
+msgid "Directory Path"
+msgstr "مسار المجلد"
+
+#: modules/aioseop_performance.php:444
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "خطأ: المرجوا إدخال بريد إلكتروني قبل التقديم."
+
+#. translators: This is the text of a button that can be clicked. Therefore,
+#. "E-mail" is used as a verb in this context.
+#: modules/aioseop_performance.php:465
+msgid "E-mail debug information"
+msgstr "معلومات التصحيح البريد الإلكتروني"
+
+#: modules/aioseop_robots.php:72
+msgid "Add Rule"
+msgstr "إضافة تعليمات"
+
+#: modules/aioseop_robots.php:101
+msgid "Create a Robots.txt File"
+msgstr "إنشاء ملف Robots.txt "
+
+#: inc/commonstrings.php:59 admin/class-aioseop-helper.php:752
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "يسمح لك بتحديد الحد الأقصى لعدد المواضيع في خريطة الموقع ( اكثر من 50.000 )."
+
+#: inc/commonstrings.php:60 admin/class-aioseop-helper.php:753
+msgid "Select which Post Types appear in your sitemap."
+msgstr "حدد نوع المواضيع التي تظهر في خريطة موقعك."
+
+#: inc/commonstrings.php:61 admin/class-aioseop-helper.php:754
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "حدد نوع تصنيفات الارشيف التي تظهر في خريطة موقعك. "
+
+#: inc/commonstrings.php:62 admin/class-aioseop-helper.php:755
+msgid "Include Date Archives in your sitemap."
+msgstr "تضمين تاريخ الارشيف في خريطة موقعك"
+
+#: inc/commonstrings.php:63 admin/class-aioseop-helper.php:756
+msgid "Include Author Archives in your sitemap."
+msgstr "تضمين كاتب الارشيف  في خريطة موقعك ."
+
+#: inc/commonstrings.php:65 admin/class-aioseop-helper.php:758
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "ضع رابط لخريطة موقعك داخل ملف Robots.txt الافتراضي."
+
+#: admin/display/general-metaboxes.php:148
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "منتدى دعم اضافة All in One SEO Pro"
+
+#: admin/display/general-metaboxes.php:153
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "سجل التغيرات في إضافة All in One SEO Pro"
+
+#: admin/display/general-metaboxes.php:154
+msgid "View the Changelog"
+msgstr "عرض التغيير"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Watch video tutorials"
+msgstr "مشاهدة دروس الفيديو"
+
+#: admin/display/general-metaboxes.php:164
+msgid "Getting started? Read the Beginners Guide"
+msgstr "كيف تبدء؟ إقرأ دليل المبتدئين"
+
+#: aioseop_class.php:1147
+msgid "Google Analytics"
+msgstr "إحصائيات جوجل "
+
+#: aioseop_class.php:5270
+msgid "SEO"
+msgstr "السيو"
+
+#: aioseop_class.php:5338 aioseop_class.php:5352
+msgid "Edit SEO"
+msgstr "تعديل السيو"
+
+#. translators: the Feature Manager allows users to (de)activate other modules
+#. of the plugin.
+#: modules/aioseop_feature_manager.php:35
+msgid "Feature Manager"
+msgstr "إدارة الميزات"
+
+#: modules/aioseop_feature_manager.php:43
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "قم بإنشاء وإدارة خريطة موقعك XML باستعمال هده الميزة وارسلها الى جوجل، بينج/ياهو و Ask.com"
+
+#. translators: the Social Meta module allows users to add Open Graph (OG:)
+#. meta tags to their site's post/pages to control the appearance of them when
+#. shared on social media networks like Facebook and Twitter.
+#: modules/aioseop_opengraph.php:44 modules/aioseop_feature_manager.php:49
+msgid "Social Meta"
+msgstr "ميتا المواقع الاجتماعية"
+
+#: modules/aioseop_feature_manager.php:57
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "توليد وتفعيل ملف  robots.txt  لإرشاد محركات البحث داخل موقعك."
+
+#. translators: 'bots' refers to user agents/web robots that misbehave.
+#: modules/aioseop_feature_manager.php:77
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "وقف الروبوتات السيئة من تبطيء موقعك."
+
+#. translators: This is the title of our Performance module.
+#. translators: the Performance module allows users to set certain performance
+#. related settings and check the status of their WordPress installation.
+#: modules/aioseop_performance.php:36 modules/aioseop_feature_manager.php:82
+msgid "Performance"
+msgstr "الفعالية"
+
+#. translators: this button deactivates all active modules of the plugin.
+#: modules/aioseop_feature_manager.php:205
+msgid "Reset Features"
+msgstr "إعادة تعيين الميزات"
+
+#: modules/aioseop_file_editor.php:42
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: inc/commonstrings.php:85 inc/aioseop_functions.php:227
+msgid "SEO Title"
+msgstr "عنوان السيو"
+
+#: inc/commonstrings.php:86 inc/aioseop_functions.php:228
+msgid "SEO Description"
+msgstr "وصف السيو"
+
+#: inc/commonstrings.php:87 inc/aioseop_functions.php:230
+msgid "SEO Keywords"
+msgstr "الكلمات المفتاحية للسيو"
+
+#: inc/aioseop_functions.php:296
+msgid "Slug may not be empty!"
+msgstr "الخانة لا يجب أن تكون فارغة"
+
+#: inc/aioseop_functions.php:411
+msgid "Unauthorized access; try reloading the page."
+msgstr "دخول غير مرخص؛ حاول إعادة تحميل الصفحة."
+
+#. translators: %s is a placeholder and will be replaced with a number.
+#: inc/aioseop_functions.php:559
+msgid "Row %s not found; no rows were deleted."
+msgstr "مصفوفة %s لم يتم العثور عليه; لم يتم حذف أية مصفوفة."
+
+#: inc/aioseop_functions.php:629
+msgid "Duplicate %s Meta"
+msgstr "الميتا التالية مكررة: %s"
+
+#: inc/aioseop_functions.php:638
+msgid "No duplicate meta tags found."
+msgstr "لم يتم العثور على أي meta tags مكررة."
+
+#: inc/aioseop_functions.php:656
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "يرجى الرجوع إلى الوثيقة لكل أداة مساعدة بإستعمالها في تصحيح الميتا الاجتماعية الخاصة بك."
+
+#: modules/aioseop_importer_exporter.php:31
+#: modules/aioseop_importer_exporter.php:96
+msgid "Import"
+msgstr "استيراد"
+
+#: modules/aioseop_importer_exporter.php:38
+msgid "Export Settings"
+msgstr "إعدادات التصدير"
+
+#: modules/aioseop_importer_exporter.php:102
+msgid "Export"
+msgstr "تصدير"
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "لا توجد موديلات أخرى يتم تحميلها حاليا!"
+
+#: modules/aioseop_importer_exporter.php:480
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>تحذير:</b> لم يتم العثور على هذا المقال: <b>\"%s\"</b>"
+
+#: inc/commonstrings.php:54 admin/class-aioseop-helper.php:576
+msgid "Click here for documentation on this setting"
+msgstr "انقر هنا للحصول على وثائق هذه الإعداد"
+
+#: modules/aioseop_sitemap.php:1301 admin/aioseop_module_class.php:2913
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "تم التحقيق من الحماية - في حالة ظهور هذا عن طريق الخطأ، سجل الخروج أعد الدخول إلى  الووردبرس."
+
+#. translators: This message confirms that the options have been reset.
+#: admin/aioseop_module_class.php:2917
+msgid "Options Reset."
+msgstr "خيارات إعادة تعيين."
+
+#: modules/aioseop_opengraph.php:50
+msgid "Sport"
+msgstr "رياضة"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Activity"
+msgstr "نشاط"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Company"
+msgstr "شركة"
+
+#: modules/aioseop_opengraph.php:55
+msgid "Cafe"
+msgstr "مقهى"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Cause"
+msgstr "جمعيات"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Sports League"
+msgstr "دوري الرياضات"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Band"
+msgstr "فرقة"
+
+#: modules/aioseop_opengraph.php:66
+msgid "Government"
+msgstr "حكومة"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Non Profit"
+msgstr "بدون ربح"
+
+#: modules/aioseop_opengraph.php:68
+msgid "School"
+msgstr "مدرسة"
+
+#: modules/aioseop_opengraph.php:69
+msgid "University"
+msgstr "جامعة"
+
+#: modules/aioseop_opengraph.php:72
+msgid "Actor"
+msgstr "ممثل"
+
+#: modules/aioseop_opengraph.php:73
+msgid "Athlete"
+msgstr "رياضي"
+
+#: modules/aioseop_opengraph.php:74
+msgid "Author"
+msgstr "كاتب"
+
+#: modules/aioseop_opengraph.php:75
+msgid "Director"
+msgstr "مدير"
+
+#: modules/aioseop_opengraph.php:77
+msgid "Politician"
+msgstr "سياسي"
+
+#: modules/aioseop_opengraph.php:78
+msgid "Profile"
+msgstr "الصفحة الشخصية"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Sports Team"
+msgstr "فريق رياضي"
+
+#: modules/aioseop_opengraph.php:79
+msgid "Public Figure"
+msgstr "شخصية مشهورة"
+
+#: modules/aioseop_opengraph.php:82 admin/aioseop_module_class.php:2556
+msgid "City"
+msgstr "مدينة"
+
+#: modules/aioseop_opengraph.php:83 admin/aioseop_module_class.php:2562
+msgid "Country"
+msgstr "دولة"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Landmark"
+msgstr "نقطة الإستدلال"
+
+#: modules/aioseop_opengraph.php:85
+msgid "State Province"
+msgstr "مقاطعة الولاية"
+
+#: modules/aioseop_opengraph.php:88
+msgid "Album"
+msgstr "الألبوم"
+
+#: modules/aioseop_opengraph.php:89
+msgid "Book"
+msgstr "كتاب"
+
+#: modules/aioseop_opengraph.php:90
+msgid "Drink"
+msgstr "مشروب"
+
+#: modules/aioseop_opengraph.php:91
+msgid "Food"
+msgstr "طعام"
+
+#: modules/aioseop_opengraph.php:92
+msgid "Game"
+msgstr "لعبة"
+
+#: modules/aioseop_opengraph.php:93
+msgid "Movie"
+msgstr "فيلم"
+
+#: modules/aioseop_opengraph.php:94
+msgid "Product"
+msgstr "منتوج"
+
+#: modules/aioseop_opengraph.php:95
+msgid "Song"
+msgstr "أغنية"
+
+#: modules/aioseop_opengraph.php:96
+msgid "TV Show"
+msgstr "برنامج تلفزيوني"
+
+#: modules/aioseop_opengraph.php:97
+msgid "Episode"
+msgstr "حلقة"
+
+#: modules/aioseop_opengraph.php:100
+msgid "Article"
+msgstr "مقال"
+
+#: modules/aioseop_opengraph.php:101
+msgid "Website"
+msgstr "موقع"
+
+#: admin/class-aioseop-helper.php:917
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "تشغيل الاكواد القصيرة التي تظهر في كلمات الميتا الاجتماعية الخاصة بالعنوان."
+
+#: admin/class-aioseop-helper.php:918
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "تشغيل الاكواد القصيرة التي تظهر في كلمات الميتا الاجتماعية الخاصة بالوصف."
+
+#: admin/class-aioseop-helper.php:886
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "إسم الموقع هو الاسم المستعمل للتعريف بموقعك."
+
+#: admin/class-aioseop-helper.php:888
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "الوصف الرئيسي هو الرسم البياني المفتوح (Open Graph) لوصف صفحتك الرئيسية."
+
+#: admin/class-aioseop-helper.php:889
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "الصورة الرئيسية هي الرسم البياني المفتوح (Open Graph) لصورة صفحتك الرئيسية."
+
+#: admin/class-aioseop-helper.php:892
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "هذه الخاصية تسمح لك بإختيار اي صورة ستظهر في صورة الرسم البياني (Open Graph).تستطيع تجاوز هذا في المشاركات الفردية."
+
+#: admin/class-aioseop-helper.php:893
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "يتيح لك هذا الخيار الرجوع إلى الصورة الافتراضية إذا لم يكن ممكنا العثور على اي صورة."
+
+#: admin/class-aioseop-helper.php:894
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "هذا الخيار يحدد الصورة الافتراضية التي يمكن استخدامها لصورة الرسم البيانيOpen Graph.يمكنك تحميل صورة، اختيار صورة من مكتبة الوسائط الخاصة بك أو لصق رابط الصورة هنا."
+
+#: admin/class-aioseop-helper.php:895
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "هذا الخيار يتيح لك تحديد العرض الافتراضي لصورك، إذا لم تحددها."
+
+#: admin/class-aioseop-helper.php:896
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "هذا الخيار يتيح لك تحديد الارتفاع الافتراضي لصورك، إذا لم تحددها."
+
+#: admin/class-aioseop-helper.php:897
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "أدخل اسم حقل مخصص ( أو أسماء حقول متعددة مفصولة بفواصل )لاستخدام هذا الحقل لتحديد صورة الرسم البياني Open Graph على الصفحات أو المشاركات. "
+
+#: admin/class-aioseop-helper.php:925
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "هذا الخيار يتيح لك تحميل صورة لاستخدامها كصورة  الرسم البياني Open Graph لهذه الصفحة أو المشاركة."
+
+#: admin/class-aioseop-helper.php:926
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "أدخل العرض الخاص بصورة رسمك البياني Open Graph بالبكسل  (i.e. 600)."
+
+#: admin/class-aioseop-helper.php:927
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "أدخل الارتفاع الخاص بصورة رسمك البياني Open Graph بالبكسل (i.e. 600). "
+
+#: admin/class-aioseop-helper.php:928
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "هذا الخيار يتيح لك تحديد رابط فيديو الرسم البياني Open Graph المستخدم في هذه الصفحة أو المشاركة."
+
+#: admin/class-aioseop-helper.php:929
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "أدخل العرض الخاص بفيديو رسمك البياني Open Graph بالبكسل (i.e. 600). "
+
+#: admin/class-aioseop-helper.php:930
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "أدخل الارتفاع الخاص بفيديو رسمك البياني Open Graph بالبكسل (i.e. 600). "
+
+#: admin/class-aioseop-helper.php:912
+msgid "Enter the Twitter username associated with your website here."
+msgstr "أدخل اسم مستخدم تويتر المرتبط بموقعك هنا."
+
+#: admin/class-aioseop-helper.php:902
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "توليد تلقائيا علامات المقال لنوعية المقال على الفيسبوك  عندما لم يتم تقديمها."
+
+#: admin/class-aioseop-helper.php:903
+msgid "Use keywords in generated article tags."
+msgstr "استخدام الكلمات المفتاحية في علامات المقال التي تم إنشاؤها."
+
+#: admin/class-aioseop-helper.php:905
+msgid "Use post tags in generated article tags."
+msgstr "استخدام علامات المشاركات في علامات المقال التي تم إنشاؤها. "
+
+#: admin/class-aioseop-helper.php:922
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "هذا هو عنوان الرسم البياني لهذه الصفحة أو المشاركة."
+
+#: admin/class-aioseop-helper.php:923
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "هذا هو وصف الرسم البياني لهذه الصفحة أو المشاركة. "
+
+#: admin/class-aioseop-helper.php:932
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "اضغط على هذا الزر لإعادة تحميل الفيسبوك وتصحيح هذه الصفحة."
+
+#: modules/aioseop_opengraph.php:362
+msgid "Image"
+msgstr "صورة"
+
+#: modules/aioseop_performance.php:273 modules/aioseop_performance.php:278
+#: modules/aioseop_performance.php:283 modules/aioseop_performance.php:292
+msgid "Yes"
+msgstr "نعم"
+
+#: admin/class-aioseop-helper.php:913
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "اسمح لمدوينك بالتعريف عن هوياتهم عن طريق أسمائهم في تويتر كمنشيئ المحتوى في بطاقات تويتر من اجل مشاركاتهم."
+
+#: admin/class-aioseop-helper.php:914
+msgid "Enter the name of your website here."
+msgstr "أدخل إسم موقعك هنا."
+
+#: modules/aioseop_opengraph.php:261
+msgid "Scan Header"
+msgstr "فحص رأس الصفحة"
+
+#: admin/class-aioseop-helper.php:931
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "حدد نوع الرسم البياني التي يصف جيدا محتوى هذه الصفحة أو المشاركة."
+
+#: admin/class-aioseop-helper.php:933
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "هذه ميتا الرسم البياني التي تسمح لك بإضافة اسم عام للقسم الذي يصف جيدا هذا المحتوى."
+
+#: admin/class-aioseop-helper.php:934
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "هذه ميتا الرسم البياني التي تسمح لك بإضافة لائحة للكلمات المفتاحية التي تصف جيدا هذا المحتوى."
+
+#: admin/class-aioseop-helper.php:907
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "ربط المقالات بصفحة الفيسبوك المرتبطة بموقعك."
+
+#: admin/class-aioseop-helper.php:908
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "السماح لكتابك بالتعريف عن هويتهم بإستعمال صفحات الفيسبوك ككتاب المحتوى في ميتا الرسم البياني لمقالتهم."
+
+#: modules/aioseop_opengraph.php:266
+msgid "Use AIOSEO Title and Description"
+msgstr "استخدام عنوان ووصف من نوع AIOSEO"
+
+#: modules/aioseop_opengraph.php:280
+msgid "Run Shortcodes In Title"
+msgstr "تشغيل الشيفرات القصيرة في العنوان"
+
+#: modules/aioseop_opengraph.php:283
+msgid "Run Shortcodes In Description"
+msgstr "تشغيل الشيفرات القصيرة في الوصف"
+
+#: modules/aioseop_opengraph.php:286
+msgid "Site Name"
+msgstr "اسم الموقع"
+
+#. translators: This is a setting where users can enter the title for their
+#. homepage.
+#: aioseop_class.php:258 modules/aioseop_opengraph.php:291
+msgid "Home Title"
+msgstr "عنوان الصفحة الرئيسية"
+
+#. translators: This is a setting where users can enter the description for
+#. their homepage.
+#: aioseop_class.php:269 modules/aioseop_opengraph.php:306
+msgid "Home Description"
+msgstr "وصف الصفحة الرئيسية "
+
+#: modules/aioseop_opengraph.php:321
+msgid "Home Image"
+msgstr "صورة الصفحة الرئيسية "
+
+#: modules/aioseop_opengraph.php:329
+msgid "Select OG:Image Source"
+msgstr "إختيار OG: مصدر الصورة"
+
+#: modules/aioseop_opengraph.php:332
+msgid "Default Image"
+msgstr "الصورة الافتراضية"
+
+#: modules/aioseop_opengraph.php:334
+msgid "First Attached Image"
+msgstr "الصورة الاولى المرفقة"
+
+#: modules/aioseop_opengraph.php:335
+msgid "First Image In Content"
+msgstr "الصورة الاولى في المحتوى"
+
+#: modules/aioseop_opengraph.php:336
+msgid "Image From Custom Field"
+msgstr "صورة من حقل خاص"
+
+#: modules/aioseop_opengraph.php:369
+msgid "Custom Image"
+msgstr "صورة مخصصة"
+
+#: modules/aioseop_opengraph.php:383
+msgid "Custom Video"
+msgstr "فيديو مخصص"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Specify Video Width"
+msgstr "تحديد عرض الفيديو"
+
+#: modules/aioseop_opengraph.php:399
+msgid "Specify Video Height"
+msgstr "تحديد ارتفاع الفيديو"
+
+#: modules/aioseop_opengraph.php:337
+msgid "Post Author Image"
+msgstr "وضع صورة الكاتب"
+
+#: modules/aioseop_opengraph.php:338
+msgid "First Available Image"
+msgstr "الصورة الاولى المتاحة"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default OG:Image"
+msgstr "OG الافتراضي:صورة"
+
+#: modules/aioseop_opengraph.php:347
+msgid "Default Image Width"
+msgstr "عرض الصورة الافتراضية"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Default Image Height"
+msgstr "ارتفاع الصورة الافتراضية"
+
+#: modules/aioseop_opengraph.php:357
+msgid "Use Custom Field For Image"
+msgstr "إستعمال حقل خاص للصورة"
+
+#: modules/aioseop_opengraph.php:499
+msgid "Facebook Object Type"
+msgstr "نوع كينونة الفيسبوك"
+
+#: modules/aioseop_opengraph.php:373
+msgid "Specify Image Width"
+msgstr "تحديد عرض صورة"
+
+#: modules/aioseop_opengraph.php:378
+msgid "Specify Image Height"
+msgstr "تحديد إرتفاع صورة"
+
+#: modules/aioseop_opengraph.php:411
+msgid "Default Twitter Card"
+msgstr "بطاقة تويتر الافتراضية"
+
+#: modules/aioseop_opengraph.php:416 modules/aioseop_opengraph.php:428
+msgid "Summary Large Image"
+msgstr "صورة كبيرة للملخص"
+
+#: modules/aioseop_opengraph.php:425
+msgid "Twitter Card Type"
+msgstr "نوع بطاقة تويتر"
+
+#: modules/aioseop_opengraph.php:438
+msgid "Twitter Site"
+msgstr "موقع تويتر"
+
+#: modules/aioseop_opengraph.php:443
+msgid "Show Twitter Author"
+msgstr "إظهار تويتر الكاتب"
+
+#: modules/aioseop_opengraph.php:446
+msgid "Twitter Domain"
+msgstr "نطاق تويتر"
+
+#: modules/aioseop_opengraph.php:455
+msgid "Automatically Generate Article Tags"
+msgstr "توليد تلقائيا علامات المقال"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Use Keywords In Article Tags"
+msgstr "توليد الكلمات المفتاحية في علامات المقال "
+
+#: modules/aioseop_opengraph.php:463
+msgid "Use Categories In Article Tags"
+msgstr "إستخدام القوائم في علامات المقال"
+
+#: modules/aioseop_opengraph.php:468
+msgid "Use Post Tags In Article Tags"
+msgstr "إستخدام علامات المشاراكات في علامات المقال"
+
+#: modules/aioseop_opengraph.php:506
+msgid "Facebook Debug"
+msgstr "تصحيح الفيسبوك"
+
+#: modules/aioseop_opengraph.php:513
+msgid "Debug This Post"
+msgstr "تصحيح هذه المشاركة"
+
+#: modules/aioseop_opengraph.php:516
+msgid "Article Section"
+msgstr "قسم المقال"
+
+#: modules/aioseop_opengraph.php:522
+msgid "Article Tags"
+msgstr "علامات المقال"
+
+#: modules/aioseop_opengraph.php:528
+msgid "Show Facebook Publisher on Articles"
+msgstr "إظهار فيسبوك الناشر على المقالات"
+
+#: modules/aioseop_opengraph.php:533
+msgid "Show Facebook Author on Articles"
+msgstr "إظهار فيسبوك الكاتب على المقالات"
+
+#: aioseop_class.php:649
+msgid "Person"
+msgstr "شخص"
+
+#: aioseop_class.php:648
+msgid "Organization"
+msgstr "منظمة"
+
+#: modules/aioseop_opengraph.php:592
+msgid "Social Settings"
+msgstr "الاعدادات الاجتماعية"
+
+#: modules/aioseop_opengraph.php:628
+msgid "Image Settings"
+msgstr "إعدادات الصورة"
+
+#: modules/aioseop_opengraph.php:633
+msgid "Facebook Settings"
+msgstr "إعدادات الفيسبوك"
+
+#: modules/aioseop_opengraph.php:648
+msgid "Twitter Settings"
+msgstr "إعدادات تويتر"
+
+#: modules/aioseop_opengraph.php:659
+msgid "Scan Social Meta"
+msgstr "مسح إلكتروني للميتا الاجتماعية"
+
+#: modules/aioseop_opengraph.php:965 modules/aioseop_opengraph.php:966
+msgid "Scan Now"
+msgstr "فحص الان"
+
+#: modules/aioseop_opengraph.php:968
+msgid "Scan your site for duplicate social meta tags."
+msgstr "فحص الموقع للبحث عن عناصر ميتا مكررة"
+
+#: modules/aioseop_opengraph.php:1815
+msgid "Object Type"
+msgstr "نوع العنصر"
+
+#: admin/class-aioseop-helper.php:948
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "إختر قيمة افتراضية تصف جيدا محتوى نوع مشاركتك."
+
+#: admin/class-aioseop-helper.php:724
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "يتيح لك هذا الإعداد رفع  ذاكرة PHP الخاصة بك إلى قيمة معقولة.ملاحظة: نواة الووردبرس وإضافات ووردبرس الاخرى يمكنها ايضا تغيير حد قيمة الذاكرة."
+
+#: modules/aioseop_opengraph.php:810
+msgid "Default "
+msgstr "افتراضي"
+
+#: admin/class-aioseop-helper.php:725
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "يتيح لك هذا الإعداد رفع وقت تنفيذ PHP الخاص بك إلى قيمة معقولة."
+
+#: admin/class-aioseop-helper.php:726
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "استخدام ناتج التخزين المؤقت للتأكد من أن العنوان قابل لاعادة الكتابة.فعل هذا الخيار إذا واجهت مشاكل مع علامة العنوان التي يستخدمها الثيم الخاص بك أو إضافة أخرى."
+
+#. translators: This is the name of a setting which allows users to increase
+#. their PHP memory limit.
+#: modules/aioseop_performance.php:44
+msgid "Raise memory limit"
+msgstr "رفع حد الذاكرة"
+
+#. translators: This a dropdown value for the "Raise memory limit" setting. If
+#. this is selected, All in One SEO Pack will not override the PHP memory limit
+#. and use the default system value.
+#: modules/aioseop_performance.php:49 modules/aioseop_performance.php:62
+msgid "Use the system default"
+msgstr "استخدام النظام الافتراضي"
+
+#. translators: This is the name of a setting which allows users to increase
+#. their PHP execution time limit.
+#: modules/aioseop_performance.php:58
+msgid "Raise execution time"
+msgstr "رفع وقت التنفيذ"
+
+#: modules/aioseop_performance.php:67
+msgid "No limit"
+msgstr "بدون حد"
+
+#. translators: This is the header of a table in which All in One SEO Pack
+#. displays data about the user's WordPress installation and server.
+#: modules/aioseop_performance.php:109
+msgid "System Status"
+msgstr "حالة النظام"
+
+#: modules/aioseop_performance.php:242
+msgid "On"
+msgstr "تشغيل"
+
+#: modules/aioseop_performance.php:244
+msgid "Off"
+msgstr "إيقاف التشغيل"
+
+#. translators: "N/A" is an abbreviation for "Non Applicable".
+#: modules/aioseop_performance.php:250 modules/aioseop_performance.php:255
+#: modules/aioseop_performance.php:260 modules/aioseop_performance.php:265
+#: modules/aioseop_performance.php:270 modules/aioseop_performance.php:297
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/aioseop_performance.php:312
+msgid "Operating System"
+msgstr "نظام التشغيل"
+
+#: modules/aioseop_performance.php:313
+msgid "Server"
+msgstr "الخادم"
+
+#. translators: "Memory" in this context refers to RAM memory.
+#: modules/aioseop_performance.php:315
+msgid "Memory usage"
+msgstr "استخدام الذاكرة"
+
+#. translators: "MYSQL" is the name of a database software and should not be
+#. translated.
+#: modules/aioseop_performance.php:317
+msgid "MYSQL Version"
+msgstr "نسخة MYSQL"
+
+#. translators: "SQL" is a programming language that is used to store or
+#. retrieve data from databases and should not be translated.
+#: modules/aioseop_performance.php:319
+msgid "SQL Mode"
+msgstr "نسق SQL "
+
+#. translators: This is a setting in the PHP interpreter of the server. Leave
+#. this untranslated if there's no proper translation for this.
+#: modules/aioseop_performance.php:322
+msgid "PHP Allow URL fopen"
+msgstr "PHP السماح لروابط fopen"
+
+#. translators: "Memory" in this context refers to RAM memory.
+#: modules/aioseop_performance.php:324
+msgid "PHP Memory Limit"
+msgstr "حد ذاكرة PHP"
+
+#: modules/aioseop_performance.php:325
+msgid "PHP Max Upload Size"
+msgstr "PHP الحجم الاقصى للتحميل"
+
+#: modules/aioseop_performance.php:326
+msgid "PHP Max Post Size"
+msgstr "PHP الحجم الاقصى للمشاركة"
+
+#. translators: The "PHP Exif" part should not be translated.
+#: modules/aioseop_performance.php:329
+msgid "PHP Exif support"
+msgstr "دعم PHP"
+
+#: modules/aioseop_performance.php:327
+msgid "PHP Max Script Execute Time"
+msgstr "PHP الوقت الاقصى لتنفيذ السكريبت"
+
+#. translators: This indicates that the current post/page is using the default
+#. value for its post type, which is NOINDEX.
+#: aioseop_class.php:3964
+msgid "Default - noindex"
+msgstr "الافتراضي - منع الأرشفة"
+
+#: aioseop_class.php:3965
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3966
+msgid "noindex"
+msgstr "noindex"
+
+#: admin/aioseop_module_class.php:3030
+msgid "Update Options"
+msgstr " تحديث الإعدادات"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Bar"
+msgstr "حانة"
+
+#: admin/class-aioseop-helper.php:887
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "العنوان الرئيسي هو الرسم البياني المفتوح (Open Graph) لعنوان صفحتك الرئيسية."
+
+#: admin/class-aioseop-helper.php:924
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "هذا الخيار يتيح لك اختيار صورة الرسم البياني Open Graph التي سيتم استخدامها لهذه الصفحة أو المشاركة، متجاوزا الإعدادات الافتراضية."
+
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: inc/commonstrings.php:79 inc/aioseop_functions.php:291
+#: admin/class-aioseop-helper.php:214 admin/class-aioseop-helper.php:217
+#: admin/class-aioseop-helper.php:219 admin/class-aioseop-helper.php:221
+#: admin/class-aioseop-helper.php:223 admin/class-aioseop-helper.php:225
+#: admin/class-aioseop-helper.php:235 admin/class-aioseop-helper.php:237
+#: admin/class-aioseop-helper.php:239 admin/class-aioseop-helper.php:338
+#: admin/class-aioseop-helper.php:467 admin/class-aioseop-helper.php:488
+msgid "Post"
+msgstr "مقال"
+
+#: modules/aioseop_opengraph.php:56
+msgid "Hotel"
+msgstr "فندق"
+
+#: modules/aioseop_opengraph.php:57
+msgid "Restaurant"
+msgstr "مطعم"
+
+#: inc/commonstrings.php:57 admin/class-aioseop-helper.php:750
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "إشعار محركات البحث يوميا، وأيضا تحديث يوميا إحصائيات خريطة الموقع عند استعمالها.( هذا يستخدم WP-Cron، لذا تأكد من أنها تعمل بشكل صحيح على الخادم الخاص بك)"
+
+#: inc/aioseop_functions.php:646
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "يجب تجنب ال meta tags الاجتماعية المكررة. يمكنك استخذام هذه الاداة المجانية من الفيسبوك، جوجل و تويتر للتحقق من صحة الميتا الاجتماعية والتحقق من الاخطاء."
+
+#: admin/class-aioseop-helper.php:904
+msgid "Use categories in generated article tags."
+msgstr "استخدام القوائم في علامات المقال التي تم إنشاؤها. "
+
+#: modules/aioseop_opengraph.php:76
+msgid "Musician"
+msgstr "موسيقار"
+
+#: inc/aioseop_functions.php:295 inc/aioseop_functions.php:302
+#: inc/admin/views/class-aioseop-about.php:82
+msgid "Please wait..."
+msgstr "يرجى الانتظار..."
+
+#: modules/aioseop_performance.php:320
+msgid "PHP Version"
+msgstr "إصدار PHP"
+
+#: modules/aioseop_opengraph.php:415 modules/aioseop_opengraph.php:429
+msgid "Summary"
+msgstr "ملخّص (موجز)"
+
+#: modules/aioseop_opengraph.php:333
+msgid "Featured Image"
+msgstr "الصورة البارزة"
+
+#: inc/admin/views/class-aioseop-about.php:402 modules/aioseop_sitemap.php:163
+#: modules/aioseop_sitemap.php:1018
+msgid "XML Sitemap"
+msgstr "خريطة الموقع XML"
+
+#: modules/aioseop_performance.php:239
+msgid "Not set"
+msgstr "لم يتم التعيين"
+
+#. translators: the XML Sitemaps module allows users to generate a sitemap in
+#. .xml format for their website and submit it to search engines such as
+#. Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:42
+msgid "XML Sitemaps"
+msgstr "خرائط الموقع XML sitemaps"
+
+#: aioseop_class.php:1011
+msgid "Exclude From Sitemap"
+msgstr "استبعاد من خريطة الموقع"
+
+#. translators: This is a setting that allows users to disable All in One SEO
+#. Pack for the current post/page.
+#: aioseop_class.php:1078
+msgid "Disable on this page/post"
+msgstr "تعطيل في هذه الصفحة / مشاركة"
+
+#. translators: This is a setting that allows users to disable Google Analytics
+#. tracking for the current post/page.
+#: aioseop_class.php:1082
+msgid "Disable Google Analytics"
+msgstr "تعطيل إحصائيات جوجل"
+
+#: aioseop_class.php:1105 modules/aioseop_opengraph.php:623
+msgid "Home Page Settings"
+msgstr "إعدادات الصفحة الرئيسية"
+
+#: aioseop_class.php:1224
+msgid "Keyword Settings"
+msgstr "إعدادات الكلمات المفتاحية"
+
+#: aioseop_class.php:1110
+msgid "Title Settings"
+msgstr "إعدادات العنوان"
+
+#. translators: This is the name of a settings section where users can control
+#. how All in One SEO Pack appears in the WordPress Administrator Panel.
+#: aioseop_class.php:1136
+msgid "Display Settings"
+msgstr "إعدادات العرض"
+
+#. translators: This is the name of a settings section where users can add
+#. verification codes of webmaster platforms such as Google Search Console,
+#. Bing Webmaster Tools, etc.
+#: aioseop_class.php:1142
+msgid "Webmaster Verification"
+msgstr "تحقق المسؤول عن الموقع"
+
+#. translators: The preview snippet shows how the page will look like in the
+#. search results (title, meta description and permalink).
+#: aioseop_class.php:970
+msgid "Preview Snippet"
+msgstr "قصاصة المعاينة"
+
+#: inc/news-sitemap-xsl.php:115 inc/admin/class-aioseop-link-attributes.php:43
+#: aioseop_class.php:976 modules/aioseop_opengraph.php:482
+msgid "Title"
+msgstr "العنوان"
+
+#: aioseop_class.php:982 modules/aioseop_opengraph.php:490
+msgid "Description"
+msgstr "الوصف"
+
+#: aioseop_class.php:990
+msgid "Keywords (comma separated)"
+msgstr "كلمات مفتاحية ( مفصولة بفواصل )"
+
+#. translators: This is a setting that users can enable to enter a custom
+#. canonical URL.
+#: aioseop_class.php:995
+msgid "Custom Canonical URL"
+msgstr "الرابط الاساسي المخصص"
+
+#. translators: This is a setting that outputs basic Schema.org markup, also
+#. known as structured data, into the source code of each page.
+#: aioseop_class.php:616
+msgid "Use Schema.org Markup"
+msgstr "استخدام Schema.org"
+
+#: inc/commonstrings.php:92
+msgid "Display Menu At The Top:"
+msgstr "عرض القائمة في الأعلى:"
+
+#. translators: This is a setting where users can enter the description format.
+#. The description format is the format All in One SEO Pack uses to rewrite the
+#. meta description tag.
+#: aioseop_class.php:400
+msgid "Description Format"
+msgstr " تنسيق الوصف"
+
+#: admin/class-aioseop-helper.php:1228
+msgid "Don't display this page in the sitemap."
+msgstr "لا تعرض هذه الصفحة في خريطة الموقع."
+
+#: admin/class-aioseop-helper.php:1231
+msgid "Disable SEO on this page."
+msgstr "تعطيل SEO في هذه الصفحة."
+
+#: admin/class-aioseop-helper.php:1232
+msgid "Disable Google Analytics on this page."
+msgstr "تعطيل Google Analytics على هذه الصفحة."
+
+#. translators: Some settings are either 'Enabled' or 'Disabled'. 'Activated'
+#. and 'Deactivated' mean the same.
+#: aioseop_class.php:285 aioseop_class.php:307 aioseop_class.php:329
+#: aioseop_class.php:339 aioseop_class.php:485 aioseop_class.php:620
+#: modules/aioseop_performance.php:79
+msgid "Enabled"
+msgstr "تمكين"
+
+#. translators: Some settings are either 'Enabled' or 'Disabled'. 'Activated'
+#. and 'Deactivated' mean the same.
+#: aioseop_class.php:287 aioseop_class.php:308 aioseop_class.php:330
+#: aioseop_class.php:340 aioseop_class.php:486 aioseop_class.php:621
+#: modules/aioseop_performance.php:80
+msgid "Disabled"
+msgstr "معطل"
+
+#. translators: This is a setting where users can indicate that they are using
+#. a static page for their homepage.
+#: aioseop_class.php:303
+msgid "Use Static Front Page Instead"
+msgstr "إستخدام الصفحة الامامية الثابتة بدلا من"
+
+#: admin/class-aioseop-helper.php:446
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "حدد هذا لإلغاء حماية حقول postmeta الداخلية للاستخدام مع XMLRPC.إذا كنت لا تعرف ما هذا، اترك الأمر دون تحديده."
+
+#: admin/class-aioseop-helper.php:450
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "ما قمت بإدخال هنا سيتم نسخه حرفيا على رأس كل المشاركات.يمكنك إدخال كل الرؤوس الإضافية التي تريد هنا،حتى ما يشير إلى الأنماط."
+
+#: admin/class-aioseop-helper.php:451
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "ما قمت بإدخال هنا سيتم نسخه حرفيا على رأس كل الصفحات.يمكنك إدخال كل رؤوس الإضافية التي تريد هنا،حتى ما يشير إلى الأنماط."
+
+#: admin/class-aioseop-helper.php:452
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "ما قمت بإدخال هنا سيتم نسخه حرفيا إلى رأس الصفحة الأولى إذا كنت قد وضعت صفحة ثابتة في إعدادات ،القراءة، وعرض الصفحة الأولى.يمكنك إدخال كل رؤوس الإضافية التي تريد هنا،حتى ما يشير إلى الأنماط. هذا وسوف يرتد إلى استخدام رؤوس صفحة إضافية إذا كان لديك مجموعة منهم ولايتم إدخال اي شيء هنا."
+
+#: admin/class-aioseop-helper.php:1221
+msgid "A preview of what this page might look like in search engine results."
+msgstr "معاينة ما قد تبدو عليه هذه الصفحة كما في نتائج محرك البحث."
+
+#: admin/class-aioseop-helper.php:1222
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "عنوان الحقل الذي يظهر في علامة العنوان لهذه الصفحة."
+
+#: admin/class-aioseop-helper.php:1223
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "وصف META لهذه الصفحة. وهذا سيتجاوز أي أوصاف تم إنشاؤها تلقائيا."
+
+#: admin/class-aioseop-helper.php:1224
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "قائمة من الكلمات الرئيسية الأكثر أهمية مفصولة بفاصلة لهذه الصفحة التي من شأنها أن تكتب كلمات ميتا مفتاحية ."
+
+#: admin/class-aioseop-helper.php:1225
+msgid "Override the canonical URLs for this post."
+msgstr "تجاوز العناوين الأساسية لهذه المشاركة."
+
+#: admin/class-aioseop-helper.php:1226
+msgid "Check this box to ask search engines not to index this page."
+msgstr "حدد هذا المربع لامر محركات البحث بعدم ارشفة هذه الصفحة."
+
+#: admin/class-aioseop-helper.php:453
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "ما قمت بإدخال هنا سيتم نسخه حرفيا إلى رأس الصفحة الرئيسية إذا كانت الصفحة الأولى تعرض كل المشاركات التي اخترتها في إعدادات،القراءة.كما سيتم نسخه حرفيا إلى رأس صفحة المشاركات إذا كان لديك مجموعة واحدة في إعدادات القراءة.يمكنك إدخال كل الرؤوس الإضافية التي تريد هنا، حتى ما يشير إلى الأنماط."
+
+#: admin/class-aioseop-helper.php:1227
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "حدد هذا المربع لامر محركات البحث بعدك تتبع الروابط من هذه الصفحة."
+
+#: admin/class-aioseop-helper.php:434
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة صفحة البحث.مفيدة لتجنب تكرار المحتوى. "
+
+#: admin/class-aioseop-helper.php:435
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة الصفحة 404."
+
+#: admin/class-aioseop-helper.php:438
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة تصنيف مختص في صفحات الارشيف.مفيدة لتجنب تكرار المحتوى. "
+
+#: admin/class-aioseop-helper.php:436
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة  صفحات مرقم صفحات / مشاركات.مفيدة لتجنب المحتوى المكرر."
+
+#: admin/class-aioseop-helper.php:437
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم تتبع الروابط من صفحات مرقم صفحات / مشاركات.مفيدة لتجنب المحتوى المكرر. "
+
+#: admin/class-aioseop-helper.php:443
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "حدد هذا والاكواد القصيرة سيتم تنفيذها من الوصف الذي تم إنشاؤه تلقائيا  من المحتوى."
+
+#: admin/class-aioseop-helper.php:444
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "حدد هذا وسيتم إزالة أوصاف الميتا الخاصة بك  من صفحة 2 أواكثر من محتوى مرقم صفحات."
+
+#: admin/class-aioseop-helper.php:445
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "حدد هذا لمنع الوصف من ان يتم اقتطاعه بغض النظر عن طوله."
+
+#: admin/class-aioseop-helper.php:407
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "إضافة قائمة مجالات إضافية لتعقب هنا. أدخل اسم نطاق واحد في كل سطر من دون http://."
+
+#: admin/class-aioseop-helper.php:408
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "وهذا يتيح دعم IP إخفاء الهوية في إحصائيات جوجل."
+
+#: admin/class-aioseop-helper.php:409
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "وهذا يتيح دعم المعلن لعرض الميزات في إحصائيات جوجل."
+
+#: admin/class-aioseop-helper.php:410
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "استبعاد المستخدمين المسجلين من إحصائيات جوجل ."
+
+#: admin/class-aioseop-helper.php:411
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "حدد هذا الخيار إذا كنت تريد أن تتبع وصلات الى الخارج بإحصائيات جوجل ."
+
+#: admin/class-aioseop-helper.php:412
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "وهذا يتيح الدعم لاسناد وصلة المحسن في إحصائيات جوجل ."
+
+#: admin/class-aioseop-helper.php:413
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "وهذا يتيح الدعم لتعزيز التجارة الإلكترونية في إحصائيات جوجل . "
+
+#: admin/class-aioseop-helper.php:428
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "تعيين إعداد عدم الارشفة الافتراضي لكل نوع المشاركة."
+
+#: admin/class-aioseop-helper.php:429
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "تعيين إعداد عدم التتبع الافتراضي لكل نوع المشاركة."
+
+#: admin/class-aioseop-helper.php:430
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة تصنيف المحفوظات.مفيدة لتجنب تكرار المحتوى."
+
+#: admin/class-aioseop-helper.php:431
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة تاريخ المحفوظات.مفيدة لتجنب تكرار المحتوى."
+
+#: admin/class-aioseop-helper.php:432
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة كاتب المحفوظات.مفيدة لتجنب تكرار المحتوى. "
+
+#: admin/class-aioseop-helper.php:433
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "حدد هذا لامر محركات البحث بعدم أرشفة وسم المحفوظات.مفيدة لتجنب تكرار المحتوى. "
+
+#: admin/class-aioseop-helper.php:403
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "أدخل اسم ID احصائيات جوجل هنا لتتبع سلوك الزائرين على موقعك باستخدام احصائيات جوجل."
+
+#: admin/class-aioseop-helper.php:404
+msgid "Check to use advanced Google Analytics options."
+msgstr "تحقق لاستخدام خيارات متقدمة  لاحصائيات جوجل."
+
+#: admin/class-aioseop-helper.php:405
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "أدخل اسم النطاق الخاص بك دون HTTP: // لتحديد نطاق ملفات تعريف الارتباط."
+
+#: admin/class-aioseop-helper.php:406
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "استخدم هذا الخيار لتمكين تتبع مجالات متعددة أو إضافية."
+
+#: admin/class-aioseop-helper.php:379
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "هذه السلسلة يحصل على إلحاق/إرفاق مسبقاً إلى عناوين الصفحات الفهرس مقسم إلى صفحات (مثل الصفحة الرئيسية أو أرشيف صفحات)."
+
+#: inc/commonstrings.php:53 admin/class-aioseop-helper.php:132
+#: admin/class-aioseop-helper.php:171 admin/class-aioseop-helper.php:207
+#: admin/class-aioseop-helper.php:245 admin/class-aioseop-helper.php:265
+#: admin/class-aioseop-helper.php:280 admin/class-aioseop-helper.php:297
+#: admin/class-aioseop-helper.php:308 admin/class-aioseop-helper.php:319
+#: admin/class-aioseop-helper.php:365 admin/class-aioseop-helper.php:380
+#: admin/class-aioseop-helper.php:458 admin/class-aioseop-helper.php:479
+#: admin/class-aioseop-helper.php:576 admin/class-aioseop-helper.php:1106
+#: admin/class-aioseop-helper.php:1154
+msgid "The following macros are supported:"
+msgstr "وحدات الماكرو التالية معتمدة:"
+
+#: admin/class-aioseop-helper.php:392
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "هذا يتيح لك تحديد أي شاشات عرض أعمدة العنوان كبار المسئولين الاقتصاديين وكلمات كبار المسئولين الاقتصاديين وكبار المسئولين الاقتصاديين وصف."
+
+#: admin/class-aioseop-helper.php:117
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "استخدام wp_title للحصول على عنوان المستخدمة بالموضوع؛ وهذا معطل بشكل افتراضي. إذا كنت تستخدم هذا الخيار، تعيين تنسيقات العنوان الخاص بك بشكل مناسب، كما قد حاول الموضوع الخاص بك للقيام بالعنوان الخاص به كبار المسئولين الاقتصاديين، وكذلك."
+
+#: admin/class-aioseop-helper.php:124
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "كما يوحي الاسم، وسيكون هذا \"العنوان الوصفي\" للصفحة الرئيسية الخاصة بك. وهذا مستقل عن أي خيار آخر. أن لم يكن تعيين، سيتم استخدام \"عنوان الموقع\" (الموجودة في وورد تحت إعدادات، والعامة، وعنوان الموقع)."
+
+#: admin/class-aioseop-helper.php:125
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "وسيكون هذا الوصف Meta للصفحة الرئيسية الخاصة بك. وهذا مستقل عن أي خيار آخر. القيمة الافتراضية هي لا يوجد \"وصف ميتا\" على الإطلاق إذا لم يتم تعيين هذا."
+
+#: admin/class-aioseop-helper.php:127
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "التحقق من هذا الخيار يستخدم العنوان والوصف، والكلمات الرئيسية على \"صفحة استقبال\" ثابتة."
+
+#: admin/class-aioseop-helper.php:499
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "هذا الخيار يسمح لك بالتبديل بين استخدام \"ميتا الكلمات الرئيسية\" في جميع أنحاء كامل الموقع."
+
+#: admin/class-aioseop-helper.php:500
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "حدد هذا الخيار إذا كنت تريد فئات الخاصة لشغل وظيفة معينة تستخدم الكلمات الرئيسية META (بالإضافة إلى أي كلمات والعلامات التي تحدد على الصفحة تحرير آخر)."
+
+#: admin/class-aioseop-helper.php:501
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "حدد هذا الخيار إذا كنت تريد العلامات الخاصة لشغل وظيفة معينة تستخدم الكلمات الرئيسية ميتا (بالإضافة إلى أي الكلمات الرئيسية التي تحدد على تحرير الصفحة آخر)."
+
+#: admin/class-aioseop-helper.php:502
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "التحقق من ذلك إذا كنت تريد الكلمات الرئيسية الخاصة بك على الصفحة الخاصة بك وظيفة (تعيين في وورد تحت إعدادات، القراءة، تعرض الصفحة الجبهة) وصفحات الأرشيف إلى يتم إنشاؤها بشكل حيوي من الكلمات الرئيسية للوظائف التي تظهر على تلك الصفحة.  إذا لم يكبح جماحه، سيقوم باستخدام الكلمات الأساسية المحددة في شاشة تحرير الصفحة لصفحة الوظائف."
+
+#: admin/class-aioseop-helper.php:126
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "أدخل قائمة مفصولة بفواصل من أهم الكلمات الرئيسية لموقع الويب الخاص بك التي ستتم كتابتها \"ميتا الكلمات الرئيسية\" على الصفحة الرئيسية الخاصة بك. Don\\ ' ر الأشياء كل شيء هنا."
+
+#: admin/class-aioseop-helper.php:116
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "التحقق من هذا الخيار، سيتم تعيين عنوان URL الأساسي لكل محتوى مرقم صفحات إلى الصفحة الأولى."
+
+#. translators: the Bad Bot Blocker module allows users to block requests from
+#. user agents that are known to misbehave.
+#: modules/aioseop_bad_robots.php:20 modules/aioseop_feature_manager.php:75
+msgid "Bad Bot Blocker"
+msgstr "مانع عناكب الخبيثة"
+
+#: admin/class-aioseop-helper.php:1084
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "منع طلبات من وكلاء المستخدم المعروفة بسوء التصرف."
+
+#: admin/class-aioseop-helper.php:1086
+msgid "Log and show recent requests from blocked bots."
+msgstr "الدخول وعرض اخر الطلبات من العناكب التي تم منعها."
+
+#: admin/class-aioseop-helper.php:1087
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "اختر هذه لتعديل لائحة وكلاء المستخدم الغير المسموح لهم لمنع العناكب السيئة."
+
+#: admin/class-aioseop-helper.php:1088
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "هذه هي لائحة وكلاء المستخدم الغير المسموح لهم لمنع العناكب السيئة. "
+
+#: admin/class-aioseop-helper.php:1090
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "إظهار سجل لمعظم طلبات الأخيرة من الروبوتات المحظورة.ملاحظة: هذا لن يتعقب أي روبوت تم حظره مسبقا في خادم الويب / .htaccess level."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "Track Blocked Bots"
+msgstr "تعقب الروبوتات التي تم منعها"
+
+#: modules/aioseop_bad_robots.php:31
+msgid "User Agent Blocklist"
+msgstr " لوائح المستخدمين التي تم منعها "
+
+#: modules/aioseop_bad_robots.php:39
+msgid "Referer Blocklist"
+msgstr " لوائح المحالين التي تم منعها "
+
+#: modules/aioseop_bad_robots.php:50
+msgid "Log Of Blocked Bots"
+msgstr "سجل الروبوتات الممنوعة"
+
+#: modules/aioseop_bad_robots.php:51
+msgid "No requests yet."
+msgstr "لا طلبات بعد."
+
+#: admin/class-aioseop-helper.php:1089
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "هذه هي لائحة المحالين الغير المسموح لهم لمنع العناكب السيئة. "
+
+#. translators: This is a header for the General Settings menu. %s is a
+#. placeholder and is replaced with the name of the plugin.
+#: aioseop_class.php:239
+msgid "%s Plugin Options"
+msgstr "خيارات الإضافة %s"
+
+#. translators: This is the main menu of the plugin.
+#. translators: This is the name of the main menu.
+#: aioseop_class.php:241 aioseop_class.php:1100 aioseop_class.php:5299
+msgid "General Settings"
+msgstr "الإعدادات العامة"
